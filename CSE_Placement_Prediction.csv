@@ -1,0 +1,1001 @@
+CGPA,10th_Percentage,12th_Percentage,Internship_Count,Projects_Count,DSA_Rating,Aptitude_Score,Communication_Score,Backlogs,Hackathon_Count,Gender,Branch,Specialization,Internship_Type,Coding_Level,Certification_Category,Placement_Training,Placed
+6.87,96,52,0,4,1724,39,8,6,9,Male,CIVIL,AI/ML,Research,Advanced,None,Yes,1
+9.75,61,71,1,8,1295,12,7,10,1,Female,ECE,Software Dev,Startup,Advanced,3-5,Yes,0
+8.66,65,55,0,9,886,83,5,5,8,Other,MECH,Data Science,Startup,Beginner,None,Yes,1
+7.99,73,51,4,7,1025,34,2,5,6,Male,CSE,Cyber Security,Remote,Advanced,1-2,Yes,1
+5.78,68,72,3,6,757,4,7,1,5,Male,CIVIL,General,MNC,Beginner,1-2,No,1
+5.78,57,93,5,6,721,72,6,5,4,Other,CIVIL,AI/ML,None,Advanced,5+,No,1
+5.29,80,51,3,5,1534,28,2,3,2,Female,ECE,Cyber Security,MNC,Intermediate,3-5,No,1
+9.33,70,87,5,4,912,69,8,8,9,Other,EEE,Cyber Security,Startup,Advanced,3-5,No,1
+8.01,66,66,0,3,1309,24,1,0,9,Male,MECH,Software Dev,Research,Advanced,None,Yes,1
+8.54,72,84,2,2,870,94,2,7,3,Other,EEE,Cloud,None,Advanced,3-5,No,1
+5.1,86,83,1,2,12,21,1,4,2,Female,CSE,Software Dev,None,Intermediate,None,No,0
+9.85,65,72,3,5,607,65,0,0,10,Male,MECH,AI/ML,Research,Beginner,1-2,Yes,1
+9.16,55,79,4,3,497,44,3,3,7,Female,ECE,AI/ML,None,Advanced,1-2,Yes,1
+6.06,57,57,5,5,1756,68,4,0,2,Other,CSE,Software Dev,Research,Advanced,1-2,Yes,1
+5.91,74,71,4,2,237,90,5,5,6,Other,MECH,Cloud,None,Intermediate,1-2,No,1
+5.92,67,93,2,3,1117,88,4,1,6,Female,MECH,Software Dev,MNC,Beginner,1-2,Yes,1
+6.52,74,85,5,8,1361,71,0,4,6,Other,EEE,AI/ML,None,Advanced,None,Yes,1
+7.62,61,54,3,4,780,0,2,6,6,Female,CSE,Cloud,Remote,Intermediate,1-2,Yes,0
+7.16,64,62,0,6,1194,83,0,1,1,Other,ECE,AI/ML,Research,Beginner,None,No,1
+6.46,75,78,4,9,605,43,10,5,9,Female,ECE,Cloud,None,Beginner,1-2,No,1
+8.06,90,80,2,1,660,86,4,5,2,Female,CSE,Cloud,Research,Advanced,None,No,1
+5.7,94,96,3,4,1647,95,4,4,9,Male,CSE,Software Dev,Remote,Advanced,None,No,1
+6.46,75,65,3,8,1590,74,10,4,8,Male,CIVIL,Software Dev,None,Advanced,None,No,1
+6.83,96,91,3,10,848,38,5,2,2,Female,IT,Software Dev,None,Advanced,3-5,No,1
+7.28,81,79,3,2,935,53,7,9,1,Other,EEE,Cloud,Remote,Intermediate,None,No,0
+8.93,59,65,5,8,1490,87,9,9,8,Other,CSE,Cloud,Remote,Intermediate,None,Yes,1
+6.0,65,61,3,10,627,74,0,10,9,Other,CSE,AI/ML,Remote,Advanced,1-2,Yes,1
+7.57,56,66,4,5,142,28,3,1,8,Female,IT,Cyber Security,Research,Beginner,None,Yes,1
+7.96,66,65,2,3,1224,53,9,6,3,Female,IT,Software Dev,Remote,Advanced,None,No,1
+5.23,72,61,5,6,1203,89,10,0,8,Female,MECH,General,Research,Beginner,5+,No,1
+8.04,75,57,3,7,713,15,0,5,2,Female,ECE,AI/ML,MNC,Beginner,3-5,Yes,0
+5.85,70,69,1,5,1387,98,8,5,6,Male,EEE,AI/ML,None,Beginner,5+,Yes,1
+5.33,71,52,1,4,478,19,10,2,6,Female,MECH,Data Science,None,Intermediate,1-2,No,1
+9.74,56,65,2,5,564,45,6,1,10,Other,CSE,Software Dev,Startup,Beginner,3-5,No,1
+9.83,63,79,0,4,470,66,6,1,7,Male,IT,AI/ML,MNC,Beginner,3-5,No,1
+9.04,64,94,0,7,383,64,4,8,9,Other,CIVIL,Data Science,Remote,Intermediate,5+,No,0
+6.52,56,72,5,0,1715,57,6,10,3,Female,ECE,General,Remote,Beginner,3-5,No,0
+5.49,58,77,5,10,925,52,1,4,2,Male,MECH,General,MNC,Beginner,5+,No,1
+8.42,100,100,5,6,416,0,3,6,2,Female,CIVIL,Software Dev,Remote,Advanced,None,No,0
+7.2,97,89,0,9,1848,80,6,4,4,Male,ECE,Cloud,Startup,Beginner,5+,No,1
+5.61,57,54,1,9,307,65,2,6,10,Other,CIVIL,Data Science,Research,Beginner,3-5,Yes,1
+7.48,99,69,0,10,648,28,1,3,0,Female,IT,Cloud,None,Beginner,3-5,No,0
+5.17,72,89,4,1,1717,83,9,7,9,Female,MECH,General,MNC,Beginner,1-2,No,1
+9.55,78,93,3,8,1390,69,1,10,2,Male,MECH,General,None,Beginner,1-2,No,0
+6.29,67,50,5,0,1024,7,0,9,5,Male,ECE,Cyber Security,Research,Intermediate,1-2,Yes,0
+8.31,80,79,1,10,1067,28,4,10,2,Female,CIVIL,Cyber Security,MNC,Beginner,1-2,Yes,0
+6.56,79,70,2,9,738,50,5,9,4,Male,IT,Cyber Security,Research,Beginner,3-5,No,0
+7.6,88,69,2,5,1866,32,5,6,8,Female,CSE,Cyber Security,Remote,Intermediate,1-2,Yes,1
+7.73,84,55,3,8,1121,2,8,9,1,Male,MECH,AI/ML,Remote,Intermediate,5+,Yes,0
+5.92,67,71,1,0,1743,59,3,4,10,Other,CSE,Cyber Security,Remote,Beginner,None,Yes,1
+9.85,91,67,0,3,1288,34,0,10,1,Male,IT,AI/ML,Research,Beginner,3-5,No,0
+8.88,88,57,0,3,1823,68,5,5,5,Other,MECH,AI/ML,Research,Beginner,1-2,No,1
+9.7,66,88,4,8,1806,90,4,4,5,Male,MECH,Software Dev,Research,Advanced,3-5,No,1
+9.47,63,81,4,10,139,75,9,6,10,Male,CIVIL,AI/ML,None,Advanced,1-2,No,1
+7.99,80,82,0,4,1504,83,5,1,10,Female,CSE,AI/ML,Research,Beginner,3-5,No,1
+9.61,73,65,2,4,1260,19,2,4,7,Male,CIVIL,Cyber Security,Remote,Intermediate,1-2,No,0
+5.44,84,61,5,5,973,72,1,9,10,Male,EEE,AI/ML,Startup,Beginner,None,No,1
+5.98,93,87,2,0,1016,38,5,2,1,Other,CSE,Cloud,Research,Intermediate,1-2,Yes,0
+5.23,94,83,4,0,952,3,0,8,8,Male,CSE,Cyber Security,Startup,Intermediate,5+,No,0
+6.63,83,63,3,8,903,18,6,5,1,Female,EEE,Data Science,Remote,Intermediate,3-5,No,0
+6.94,52,85,0,2,71,90,6,9,0,Other,IT,Cyber Security,Research,Beginner,3-5,No,0
+6.36,86,82,4,3,1690,44,9,2,9,Female,IT,AI/ML,None,Beginner,5+,No,1
+9.14,92,72,4,0,1213,42,6,6,1,Female,MECH,Cloud,None,Intermediate,5+,No,1
+6.78,89,99,5,8,1291,12,10,3,6,Female,ECE,Cyber Security,Startup,Advanced,None,No,1
+6.4,75,94,0,7,1344,12,9,2,7,Female,CIVIL,Cloud,None,Advanced,3-5,No,1
+7.71,72,51,5,1,106,59,0,7,4,Other,ECE,Data Science,None,Advanced,None,No,0
+5.7,93,90,0,7,1255,56,3,3,5,Male,MECH,General,None,Intermediate,3-5,Yes,1
+9.01,88,70,5,6,1065,85,6,10,0,Female,ECE,Data Science,Remote,Beginner,3-5,Yes,1
+5.37,64,51,2,10,1725,91,10,0,5,Other,CSE,General,None,Intermediate,None,No,1
+9.93,98,76,3,5,882,51,8,5,7,Female,CSE,Software Dev,MNC,Advanced,3-5,No,1
+8.86,53,58,3,0,138,52,4,9,2,Male,EEE,General,Research,Beginner,3-5,Yes,0
+5.99,78,50,0,6,614,85,1,10,10,Other,EEE,Software Dev,None,Intermediate,None,No,0
+5.03,71,60,1,9,1706,42,6,10,0,Other,MECH,Cyber Security,None,Intermediate,1-2,No,0
+9.08,74,52,4,6,862,82,9,0,10,Male,MECH,Software Dev,None,Advanced,None,Yes,1
+8.53,62,72,4,8,272,71,0,4,3,Other,MECH,Cloud,MNC,Intermediate,3-5,No,1
+8.65,67,75,0,0,1504,71,6,6,0,Male,CSE,Software Dev,None,Beginner,5+,No,0
+8.86,82,53,5,1,415,41,5,5,7,Other,ECE,Cloud,None,Advanced,1-2,No,1
+5.37,65,67,1,10,505,89,6,1,4,Other,CIVIL,General,Research,Advanced,5+,Yes,1
+6.79,94,55,2,8,732,25,9,10,0,Male,MECH,General,MNC,Beginner,1-2,Yes,0
+5.58,91,84,5,8,1748,22,2,3,7,Male,MECH,General,MNC,Advanced,5+,No,1
+9.32,93,71,5,5,1876,42,2,10,8,Other,CSE,Software Dev,None,Intermediate,1-2,Yes,1
+8.12,51,92,0,5,423,76,6,1,9,Other,CIVIL,General,MNC,Intermediate,None,Yes,1
+6.65,84,64,0,3,1430,27,1,10,1,Male,CSE,Software Dev,Startup,Advanced,1-2,Yes,0
+5.32,91,71,4,3,1591,8,0,0,8,Male,CIVIL,Software Dev,MNC,Beginner,1-2,No,1
+6.55,83,86,0,4,389,19,8,2,7,Other,CSE,AI/ML,MNC,Intermediate,1-2,Yes,1
+6.63,79,91,0,2,341,55,8,2,6,Other,ECE,AI/ML,MNC,Beginner,3-5,Yes,1
+8.65,62,61,0,0,945,82,6,6,2,Other,MECH,Software Dev,Remote,Intermediate,5+,Yes,1
+8.19,62,96,4,0,613,38,6,0,1,Male,IT,Cloud,Remote,Intermediate,None,No,1
+9.44,67,98,2,6,1956,50,2,8,6,Other,IT,Cyber Security,Remote,Advanced,5+,Yes,1
+7.36,81,91,2,0,492,11,9,10,4,Female,MECH,Data Science,MNC,Advanced,5+,Yes,0
+5.6,81,87,0,0,191,78,1,5,5,Male,MECH,AI/ML,Startup,Beginner,None,No,0
+8.57,84,67,4,2,498,94,10,3,3,Other,MECH,Software Dev,MNC,Advanced,3-5,Yes,1
+8.8,88,94,2,9,821,54,6,2,1,Male,MECH,Data Science,None,Intermediate,1-2,Yes,1
+7.81,95,84,5,3,1735,77,8,2,8,Female,CIVIL,AI/ML,Startup,Intermediate,3-5,Yes,1
+8.85,78,79,2,3,1256,10,0,1,2,Male,ECE,Cyber Security,Remote,Beginner,3-5,No,0
+7.47,98,73,2,1,1968,25,3,1,6,Other,IT,Cloud,Research,Beginner,1-2,No,1
+7.61,78,91,4,0,226,41,5,9,7,Female,EEE,Software Dev,Startup,Intermediate,5+,Yes,0
+7.14,93,79,5,2,1394,26,6,4,1,Female,IT,Cyber Security,Remote,Advanced,1-2,Yes,1
+5.13,65,63,4,10,138,10,9,8,5,Other,IT,AI/ML,Startup,Advanced,None,Yes,1
+5.54,93,55,0,3,855,37,6,1,10,Other,CSE,Software Dev,Startup,Beginner,1-2,Yes,1
+5.16,96,52,3,2,816,97,9,1,7,Other,MECH,Data Science,MNC,Beginner,5+,Yes,1
+8.18,59,65,2,7,1172,42,1,5,6,Male,MECH,General,None,Intermediate,3-5,Yes,1
+6.57,79,56,3,9,1138,18,3,9,10,Male,MECH,Cloud,Research,Intermediate,3-5,No,0
+7.54,74,63,4,0,1473,63,4,1,2,Male,CSE,AI/ML,Remote,Beginner,1-2,Yes,1
+9.54,88,58,4,1,1086,5,0,3,0,Other,ECE,Cloud,Startup,Intermediate,None,Yes,0
+6.25,69,64,4,6,103,45,0,5,5,Other,ECE,Software Dev,Research,Beginner,5+,Yes,0
+7.05,54,70,3,3,1874,41,9,4,7,Male,EEE,General,Startup,Beginner,3-5,No,1
+8.78,50,84,4,7,870,91,2,0,5,Female,ECE,Cyber Security,None,Advanced,1-2,Yes,1
+6.14,79,51,0,10,667,64,9,5,4,Male,ECE,Cloud,Research,Beginner,None,No,1
+5.38,98,76,4,2,272,98,2,0,10,Female,MECH,Data Science,Remote,Intermediate,None,Yes,1
+6.45,52,51,1,5,1029,71,7,2,7,Other,CIVIL,AI/ML,Startup,Advanced,3-5,Yes,1
+5.81,94,84,3,8,1170,58,8,9,1,Other,IT,Data Science,None,Advanced,3-5,Yes,1
+9.65,63,67,1,0,183,51,10,4,0,Male,ECE,Cloud,Research,Intermediate,5+,Yes,1
+9.04,79,63,4,0,1051,46,0,9,0,Male,ECE,General,Startup,Intermediate,None,Yes,0
+8.17,99,69,0,7,1985,6,10,4,3,Other,CSE,Cyber Security,Startup,Intermediate,5+,Yes,1
+9.36,53,67,2,2,1573,10,1,9,5,Male,EEE,Cyber Security,Remote,Beginner,None,No,0
+9.02,67,59,5,4,1142,60,9,5,8,Other,CIVIL,Data Science,None,Advanced,None,Yes,1
+5.93,86,74,5,0,292,67,1,9,0,Other,CSE,Software Dev,MNC,Beginner,1-2,Yes,0
+9.46,74,51,4,4,1394,24,3,7,0,Female,MECH,Software Dev,Startup,Beginner,3-5,Yes,0
+7.7,97,74,0,10,1267,11,1,4,4,Male,IT,General,Research,Beginner,None,No,0
+9.04,50,82,3,5,1603,25,6,10,9,Other,EEE,Cyber Security,Remote,Beginner,5+,Yes,0
+9.48,95,85,1,7,1749,11,8,0,4,Male,CSE,Data Science,Remote,Advanced,3-5,No,1
+6.59,64,80,1,2,1241,42,6,4,4,Female,ECE,Data Science,Startup,Advanced,5+,Yes,1
+5.55,58,63,1,2,176,50,5,2,9,Female,ECE,Data Science,Startup,Beginner,3-5,Yes,1
+6.14,64,50,3,10,1322,36,9,3,5,Male,EEE,Cloud,Startup,Intermediate,3-5,No,1
+7.14,98,95,5,10,1699,45,0,7,7,Male,ECE,General,MNC,Advanced,None,No,1
+9.09,73,65,0,9,57,52,10,6,2,Other,CSE,Software Dev,Startup,Beginner,1-2,Yes,1
+9.3,53,95,3,8,1292,87,9,10,8,Female,CSE,Software Dev,None,Intermediate,None,No,1
+5.03,61,52,1,3,307,79,8,4,0,Female,ECE,Cloud,Research,Intermediate,3-5,No,1
+7.55,86,84,4,3,1593,12,4,1,3,Female,ECE,AI/ML,Startup,Beginner,None,Yes,1
+7.09,86,90,2,6,1311,88,10,5,8,Male,MECH,Cloud,MNC,Advanced,None,Yes,1
+6.11,92,55,3,1,976,53,4,10,7,Other,IT,General,Research,Intermediate,3-5,Yes,0
+5.6,55,74,3,7,1128,56,5,5,9,Male,EEE,Data Science,Remote,Advanced,3-5,No,1
+6.69,88,62,0,5,1251,3,8,9,8,Male,CSE,Cloud,Startup,Advanced,None,Yes,0
+9.71,95,83,0,2,1270,74,7,9,0,Male,EEE,Data Science,Research,Intermediate,None,Yes,0
+6.62,73,57,3,8,699,95,7,10,8,Other,MECH,General,Remote,Beginner,None,No,1
+7.59,60,70,1,4,1517,48,7,5,2,Male,CSE,General,MNC,Intermediate,5+,No,1
+8.52,62,83,2,7,82,6,0,8,10,Female,MECH,Cyber Security,None,Intermediate,None,Yes,0
+6.82,83,53,0,6,1209,10,0,10,9,Female,MECH,Data Science,Startup,Advanced,5+,No,0
+9.86,74,74,1,7,251,91,7,7,8,Female,CIVIL,Software Dev,None,Beginner,1-2,No,1
+9.81,56,64,4,6,1378,53,4,7,0,Other,ECE,Cloud,MNC,Advanced,5+,No,1
+6.26,53,53,0,2,1773,86,8,0,0,Male,CIVIL,General,Research,Intermediate,None,Yes,1
+7.49,57,94,1,1,1895,44,1,4,8,Other,EEE,Data Science,Research,Beginner,1-2,Yes,0
+6.5,69,61,1,6,1719,22,8,6,10,Male,EEE,AI/ML,MNC,Beginner,5+,Yes,1
+6.42,78,81,2,2,795,27,7,5,5,Female,ECE,Cyber Security,MNC,Beginner,5+,No,0
+5.18,100,81,2,2,896,56,8,4,3,Male,CIVIL,AI/ML,Startup,Beginner,3-5,Yes,1
+8.05,94,77,4,1,1961,25,3,7,6,Male,EEE,General,Remote,Beginner,1-2,Yes,0
+7.51,95,62,1,3,209,24,0,2,4,Male,CIVIL,AI/ML,None,Intermediate,3-5,No,0
+5.26,59,80,5,7,815,53,0,5,9,Other,ECE,AI/ML,None,Intermediate,1-2,No,1
+6.39,92,63,1,0,1831,28,4,4,6,Male,CSE,Cyber Security,Research,Intermediate,5+,Yes,0
+9.54,83,69,2,0,608,82,1,7,7,Male,MECH,Cyber Security,Research,Advanced,3-5,No,1
+6.2,75,67,5,4,446,96,7,3,7,Male,MECH,Cyber Security,Startup,Beginner,None,Yes,1
+5.72,90,78,0,10,459,35,9,7,0,Other,CIVIL,Cyber Security,MNC,Beginner,5+,Yes,0
+7.45,98,55,0,4,967,13,10,9,7,Other,EEE,AI/ML,None,Intermediate,1-2,Yes,0
+9.93,52,81,3,10,471,77,4,1,5,Other,CIVIL,Software Dev,Startup,Beginner,1-2,No,1
+6.21,55,78,2,0,1743,34,4,8,3,Male,CIVIL,Software Dev,Research,Advanced,3-5,No,0
+8.36,54,92,3,5,369,29,1,8,7,Female,IT,Cyber Security,Research,Beginner,3-5,Yes,0
+8.81,54,51,5,0,899,91,6,9,2,Female,MECH,Cloud,None,Beginner,1-2,Yes,1
+6.19,96,72,2,4,1957,16,7,9,3,Female,ECE,Data Science,Research,Advanced,5+,Yes,0
+8.64,72,68,4,8,1515,66,9,5,5,Male,CIVIL,General,Research,Intermediate,3-5,Yes,1
+6.84,98,80,1,4,922,79,0,3,10,Female,IT,Cloud,Remote,Intermediate,None,No,1
+8.16,58,100,4,5,136,29,1,3,6,Female,IT,General,MNC,Beginner,1-2,Yes,1
+8.17,84,54,5,7,366,92,9,5,3,Female,MECH,Cloud,Research,Advanced,None,Yes,1
+7.68,69,68,2,10,911,44,3,4,3,Male,MECH,Cloud,Remote,Intermediate,1-2,No,1
+5.45,98,83,5,0,183,78,4,5,6,Female,MECH,Software Dev,Startup,Intermediate,None,Yes,1
+9.18,91,59,1,1,1611,88,1,6,5,Female,ECE,Data Science,Research,Intermediate,5+,Yes,1
+6.6,84,74,0,8,1310,50,0,6,10,Male,IT,Cloud,Startup,Beginner,1-2,Yes,0
+5.93,99,51,0,2,471,46,8,8,7,Other,EEE,Cyber Security,Research,Advanced,5+,Yes,0
+5.2,67,60,5,5,1398,52,0,7,0,Female,ECE,General,None,Beginner,3-5,Yes,0
+7.95,66,99,3,4,653,63,3,5,9,Other,CSE,Software Dev,Remote,Intermediate,1-2,No,1
+8.39,73,80,2,10,748,37,1,5,10,Female,CIVIL,General,Remote,Advanced,5+,No,1
+5.08,52,64,2,1,536,63,10,4,6,Male,MECH,Cyber Security,None,Beginner,None,No,1
+7.56,81,58,0,6,1534,86,3,0,6,Other,IT,Cyber Security,MNC,Intermediate,5+,No,1
+6.13,84,72,4,3,801,88,7,8,10,Other,CIVIL,Cloud,Remote,Intermediate,1-2,Yes,1
+8.23,87,68,1,0,1602,6,7,8,6,Other,ECE,Cyber Security,Startup,Beginner,5+,No,0
+5.87,62,58,4,3,1273,21,10,8,6,Other,CSE,Data Science,Remote,Intermediate,None,No,1
+8.45,96,84,4,5,919,80,8,10,9,Female,ECE,Cyber Security,MNC,Intermediate,None,No,1
+6.93,74,70,5,6,509,81,10,7,9,Female,ECE,Cloud,Startup,Advanced,None,No,1
+9.68,58,58,0,6,629,40,4,9,7,Other,EEE,General,Startup,Intermediate,3-5,No,0
+5.69,53,77,0,6,1001,73,6,2,8,Female,CIVIL,Cyber Security,None,Beginner,1-2,No,1
+6.71,63,95,0,2,1096,9,2,0,8,Other,EEE,Software Dev,Research,Advanced,None,No,0
+5.57,86,100,5,5,1305,56,9,10,1,Other,ECE,Software Dev,None,Beginner,3-5,No,1
+9.62,83,56,3,7,915,6,3,7,6,Male,CSE,Software Dev,Research,Intermediate,None,Yes,0
+9.39,60,65,4,3,1983,49,9,6,6,Other,IT,General,None,Advanced,5+,No,1
+6.29,90,65,5,7,1383,90,8,4,3,Female,IT,AI/ML,Research,Advanced,1-2,Yes,1
+8.3,52,82,2,1,1033,51,9,9,8,Other,CIVIL,Software Dev,Remote,Advanced,5+,No,1
+9.09,77,53,1,9,1234,32,9,6,7,Male,MECH,Software Dev,Startup,Advanced,3-5,No,1
+7.78,78,53,3,8,1858,0,0,9,0,Female,MECH,AI/ML,Research,Beginner,5+,No,0
+7.65,58,88,2,8,151,52,1,3,1,Male,IT,General,Remote,Intermediate,5+,Yes,0
+6.21,52,89,4,7,1028,59,4,8,1,Male,ECE,Software Dev,MNC,Intermediate,None,Yes,1
+5.47,74,66,0,9,1218,33,2,10,10,Other,ECE,Cloud,None,Advanced,5+,No,0
+9.49,83,86,4,9,1977,3,1,9,7,Male,EEE,General,MNC,Intermediate,None,Yes,1
+9.5,61,88,5,0,1306,16,0,1,0,Male,CIVIL,Software Dev,Remote,Beginner,None,No,0
+8.17,91,78,1,1,463,3,9,8,3,Female,EEE,Software Dev,MNC,Intermediate,1-2,Yes,0
+6.7,58,85,5,5,1136,42,2,8,9,Male,MECH,AI/ML,MNC,Beginner,3-5,Yes,1
+6.75,64,87,3,9,270,89,0,4,4,Other,IT,Cloud,Remote,Beginner,3-5,Yes,1
+8.63,89,88,3,4,1186,3,0,10,8,Other,ECE,General,Startup,Intermediate,3-5,No,0
+9.49,74,99,1,8,459,0,0,0,6,Other,IT,Cyber Security,Research,Beginner,None,Yes,0
+9.44,54,86,2,4,104,70,7,6,7,Male,CSE,Data Science,None,Beginner,3-5,Yes,1
+8.9,60,84,2,1,1716,93,2,9,10,Female,IT,Cloud,Research,Beginner,None,No,1
+8.21,83,56,3,9,1579,49,10,9,8,Other,CSE,Cyber Security,None,Beginner,1-2,Yes,1
+5.42,73,76,3,3,1305,72,0,3,6,Male,EEE,Cloud,Research,Advanced,3-5,No,1
+5.81,64,77,0,8,1710,60,6,8,4,Other,EEE,Cyber Security,MNC,Intermediate,None,No,1
+9.49,87,71,2,0,161,34,9,5,4,Other,MECH,Cyber Security,Startup,Advanced,3-5,Yes,1
+8.03,57,63,1,10,350,7,2,2,9,Female,IT,Cloud,MNC,Beginner,3-5,No,0
+5.05,54,56,2,0,433,23,7,5,10,Other,IT,AI/ML,Startup,Intermediate,1-2,Yes,1
+5.51,97,86,0,6,851,82,3,9,5,Female,CSE,Cloud,Remote,Beginner,5+,Yes,0
+8.32,75,71,5,10,139,35,3,5,4,Male,EEE,Cloud,None,Intermediate,3-5,No,1
+5.03,67,54,3,2,1494,49,4,4,10,Other,CSE,Cyber Security,None,Advanced,1-2,Yes,1
+5.8,55,51,3,9,1155,42,5,1,8,Male,EEE,Data Science,Remote,Intermediate,3-5,Yes,1
+7.74,86,76,0,1,86,26,6,9,2,Male,CSE,Cyber Security,Research,Beginner,3-5,No,0
+8.46,97,70,1,8,1711,31,3,9,2,Male,EEE,Software Dev,Remote,Intermediate,3-5,No,0
+8.26,62,87,3,2,182,77,7,1,6,Other,CSE,Cloud,Remote,Intermediate,3-5,Yes,1
+6.12,77,64,4,1,367,17,5,6,6,Female,EEE,General,Startup,Advanced,5+,No,0
+8.56,54,70,3,7,128,27,0,1,5,Other,CIVIL,Cloud,Remote,Beginner,5+,No,0
+6.19,62,59,4,9,1269,28,0,5,2,Male,CSE,AI/ML,None,Intermediate,3-5,No,0
+6.63,66,72,0,5,1624,15,8,4,6,Female,IT,General,MNC,Advanced,3-5,No,1
+8.73,99,88,0,5,1601,98,9,3,4,Male,MECH,Cyber Security,Startup,Intermediate,1-2,Yes,1
+8.25,89,54,3,9,669,46,5,6,6,Female,CIVIL,AI/ML,Startup,Beginner,1-2,Yes,1
+9.25,94,50,2,10,1922,58,9,7,1,Other,CIVIL,Cloud,Research,Intermediate,None,No,1
+8.29,81,62,4,6,1401,30,7,3,5,Female,CSE,Cyber Security,MNC,Intermediate,5+,Yes,1
+7.84,78,70,1,6,148,3,6,0,7,Other,MECH,Cyber Security,Startup,Intermediate,3-5,No,1
+5.47,100,75,3,10,984,36,5,0,0,Male,IT,Software Dev,Remote,Intermediate,5+,No,1
+6.84,52,99,1,5,851,16,3,0,3,Female,CIVIL,Software Dev,Startup,Beginner,1-2,Yes,0
+6.33,89,94,3,3,1456,38,6,10,10,Male,IT,Data Science,Startup,Advanced,5+,Yes,1
+6.22,83,70,2,10,627,47,8,0,0,Female,EEE,Software Dev,Startup,Advanced,5+,Yes,1
+9.87,89,67,2,8,1749,45,10,4,0,Other,MECH,General,Research,Intermediate,3-5,Yes,1
+6.97,76,86,2,5,1492,89,9,3,9,Female,ECE,Cyber Security,Startup,Beginner,3-5,No,1
+9.46,62,94,5,3,445,47,9,8,10,Female,EEE,Software Dev,Startup,Beginner,1-2,No,1
+8.16,94,81,2,2,1504,38,6,2,7,Other,MECH,Data Science,Research,Beginner,3-5,Yes,1
+8.97,82,85,0,3,883,3,0,6,6,Other,CSE,Cloud,MNC,Beginner,1-2,No,0
+7.51,55,66,0,2,293,29,9,10,9,Other,CSE,General,None,Beginner,1-2,Yes,0
+7.88,73,84,5,1,1788,29,8,7,0,Female,IT,Software Dev,Research,Beginner,None,Yes,1
+7.46,68,98,4,4,1166,21,3,5,10,Male,CIVIL,Cyber Security,Research,Intermediate,None,Yes,1
+5.98,65,60,1,1,249,74,2,9,1,Female,ECE,Cloud,Startup,Advanced,None,No,0
+8.61,89,70,3,5,877,65,3,0,3,Female,CSE,Cyber Security,Startup,Advanced,5+,No,1
+6.4,77,75,3,2,947,11,3,7,0,Male,MECH,Cloud,None,Intermediate,None,Yes,0
+5.12,82,53,5,5,974,93,9,9,2,Other,CIVIL,General,Startup,Advanced,3-5,Yes,1
+8.23,97,83,0,10,1325,35,10,2,7,Female,CIVIL,Cyber Security,Remote,Beginner,3-5,Yes,1
+5.89,90,97,3,9,1048,17,1,7,7,Male,MECH,Software Dev,Startup,Beginner,None,Yes,0
+9.7,62,67,0,8,788,89,0,3,7,Other,CIVIL,Software Dev,Startup,Advanced,5+,No,1
+9.77,92,89,4,0,983,52,9,7,5,Other,CSE,Data Science,Remote,Beginner,1-2,No,1
+9.57,94,84,1,5,888,70,0,10,5,Female,MECH,Cloud,None,Beginner,5+,Yes,0
+6.85,74,90,4,8,889,0,7,0,4,Other,MECH,Data Science,Remote,Advanced,5+,Yes,1
+5.08,91,78,5,10,1924,57,1,2,8,Other,IT,AI/ML,Research,Intermediate,1-2,No,1
+9.64,85,78,2,3,69,89,9,5,3,Male,ECE,Software Dev,Remote,Advanced,1-2,Yes,1
+7.14,76,87,2,10,624,86,4,8,9,Male,IT,Cloud,MNC,Advanced,1-2,No,1
+9.83,87,91,2,1,874,89,3,1,6,Other,ECE,General,Research,Advanced,3-5,No,1
+9.82,56,70,4,3,1135,5,7,10,0,Male,MECH,Data Science,Startup,Advanced,1-2,Yes,0
+9.27,54,91,3,0,1387,69,1,0,8,Other,CIVIL,General,Research,Intermediate,1-2,No,1
+6.47,92,62,1,2,1326,43,9,9,6,Female,ECE,General,None,Intermediate,5+,No,0
+6.93,94,98,2,9,470,71,8,2,9,Male,MECH,General,None,Beginner,5+,No,1
+9.26,100,90,5,8,1987,23,6,3,8,Other,MECH,Data Science,Remote,Beginner,None,No,1
+6.58,80,66,5,9,90,85,6,10,6,Other,IT,AI/ML,Research,Advanced,5+,Yes,1
+5.85,72,58,2,4,529,18,0,4,1,Male,IT,Data Science,Startup,Beginner,1-2,No,0
+7.78,91,90,2,10,660,100,1,2,5,Male,CIVIL,Cyber Security,None,Intermediate,3-5,No,1
+9.68,59,50,1,5,738,17,3,9,9,Female,EEE,Software Dev,Startup,Beginner,5+,No,0
+8.48,81,51,2,2,725,94,3,10,10,Other,CSE,Data Science,MNC,Beginner,5+,Yes,1
+7.85,92,97,1,4,871,100,10,1,3,Female,EEE,Data Science,None,Beginner,1-2,Yes,1
+5.49,79,78,5,10,1686,29,2,1,2,Female,EEE,AI/ML,Remote,Advanced,5+,Yes,1
+8.08,88,82,2,7,191,41,6,6,1,Female,CIVIL,Cyber Security,MNC,Beginner,5+,No,0
+9.95,80,59,4,5,1986,32,7,8,5,Male,ECE,Data Science,Research,Intermediate,1-2,Yes,1
+5.7,67,99,4,3,1575,73,1,9,7,Female,CIVIL,Software Dev,Startup,Intermediate,5+,Yes,1
+7.59,85,89,5,1,1265,100,3,1,5,Male,CIVIL,Software Dev,None,Intermediate,3-5,Yes,1
+9.39,51,70,1,8,137,11,2,6,8,Male,MECH,Data Science,MNC,Intermediate,None,No,0
+8.7,63,77,4,0,344,93,1,6,4,Female,MECH,General,MNC,Beginner,5+,Yes,1
+8.49,62,60,1,0,1203,26,5,10,1,Female,MECH,General,None,Advanced,3-5,Yes,0
+8.51,78,83,4,3,1008,38,3,6,7,Other,CSE,Cyber Security,Research,Intermediate,5+,Yes,1
+6.8,61,57,4,6,1735,8,5,2,8,Female,ECE,Software Dev,Research,Intermediate,None,No,1
+6.47,88,71,1,0,502,20,1,6,9,Other,ECE,General,Remote,Advanced,1-2,No,0
+9.05,51,57,3,8,202,75,3,0,3,Female,MECH,Software Dev,Research,Advanced,None,Yes,1
+9.05,81,98,4,3,572,28,10,9,5,Female,EEE,Cyber Security,Remote,Intermediate,5+,Yes,1
+9.34,62,64,2,2,191,32,5,0,10,Female,CSE,Cyber Security,MNC,Intermediate,None,Yes,1
+9.57,95,66,5,0,4,61,4,4,9,Female,EEE,General,None,Advanced,None,No,1
+7.56,76,72,3,9,1913,14,2,1,7,Other,IT,Data Science,Research,Intermediate,1-2,No,1
+7.51,98,73,1,3,1260,1,7,8,8,Other,ECE,Cloud,Remote,Intermediate,5+,Yes,0
+8.99,90,94,3,8,1716,51,6,6,4,Female,ECE,AI/ML,MNC,Beginner,None,No,1
+8.25,66,68,0,9,310,43,2,3,5,Female,EEE,Cloud,Research,Advanced,None,Yes,1
+8.51,89,54,0,5,548,53,5,3,10,Other,CSE,Cloud,Startup,Beginner,1-2,No,1
+8.98,80,81,4,5,55,17,3,1,3,Male,ECE,Software Dev,MNC,Beginner,3-5,Yes,1
+9.45,83,93,4,0,442,2,10,4,4,Male,EEE,Cyber Security,Research,Advanced,5+,No,1
+6.69,73,50,2,9,1260,6,4,3,6,Male,CIVIL,Software Dev,MNC,Beginner,3-5,Yes,1
+6.88,94,72,5,1,869,42,10,0,8,Other,CIVIL,General,None,Intermediate,3-5,No,1
+5.47,84,86,3,10,1884,81,4,7,9,Other,CSE,AI/ML,None,Beginner,1-2,Yes,1
+7.89,97,57,0,5,1220,37,6,2,10,Male,EEE,General,None,Advanced,1-2,Yes,1
+5.18,55,62,4,1,584,36,10,5,5,Male,CIVIL,Data Science,Startup,Intermediate,5+,Yes,1
+7.33,68,57,5,2,1594,57,4,3,5,Female,CSE,AI/ML,None,Intermediate,3-5,Yes,1
+7.71,79,72,3,3,751,32,10,8,7,Other,MECH,Software Dev,Startup,Intermediate,None,No,1
+6.43,56,92,4,10,1537,58,2,6,10,Other,CSE,Software Dev,None,Intermediate,3-5,Yes,1
+7.95,59,50,4,4,1472,94,9,8,3,Male,IT,General,MNC,Beginner,1-2,No,1
+5.15,90,94,0,8,359,10,4,9,2,Male,MECH,Software Dev,Research,Beginner,None,No,0
+5.19,81,100,0,3,1723,67,6,2,6,Other,EEE,Software Dev,Research,Intermediate,None,Yes,1
+9.11,83,73,4,10,818,81,4,0,4,Female,MECH,Cloud,None,Advanced,1-2,Yes,1
+6.8,77,84,1,8,29,67,4,4,1,Male,MECH,Data Science,Research,Intermediate,None,Yes,1
+5.64,64,73,4,10,1802,97,8,2,1,Other,EEE,Cloud,None,Beginner,3-5,Yes,1
+7.61,79,66,5,9,107,92,2,5,10,Other,EEE,Software Dev,None,Intermediate,1-2,No,1
+8.85,86,54,4,2,843,87,5,7,5,Female,CIVIL,Cyber Security,Remote,Beginner,5+,No,1
+6.08,78,69,2,7,1958,21,0,10,7,Female,IT,Cloud,Remote,Intermediate,1-2,No,0
+8.11,71,70,2,0,1625,65,9,3,0,Male,EEE,Software Dev,Remote,Advanced,5+,No,1
+5.43,53,89,2,10,716,43,4,4,10,Male,ECE,Software Dev,Startup,Intermediate,5+,Yes,1
+5.26,69,80,1,8,890,5,7,4,5,Male,ECE,Data Science,Remote,Advanced,1-2,No,0
+7.66,81,95,1,8,1991,41,4,3,1,Other,IT,General,None,Advanced,1-2,Yes,1
+7.7,85,85,4,9,1982,24,8,3,1,Male,CSE,AI/ML,MNC,Intermediate,5+,Yes,1
+8.19,99,60,2,1,959,56,10,3,6,Other,CSE,Cloud,Remote,Advanced,5+,No,1
+8.63,53,64,1,3,1468,84,5,3,9,Male,ECE,Cloud,Remote,Advanced,None,No,1
+9.88,76,68,0,7,892,54,7,3,0,Female,EEE,Cloud,MNC,Beginner,1-2,No,1
+7.58,66,56,4,6,1461,15,9,4,5,Female,IT,Software Dev,None,Beginner,1-2,No,1
+6.61,61,100,5,0,731,94,7,1,6,Other,CSE,Data Science,Startup,Advanced,None,No,1
+8.98,71,77,3,4,1913,13,2,1,7,Female,CSE,Software Dev,Remote,Intermediate,1-2,No,1
+6.35,66,100,4,6,605,38,6,8,6,Other,MECH,Software Dev,MNC,Advanced,None,Yes,1
+7.19,59,92,3,3,456,27,6,1,5,Other,ECE,General,None,Intermediate,None,Yes,1
+5.39,50,54,2,0,614,95,9,5,8,Female,EEE,Cyber Security,Research,Beginner,1-2,Yes,1
+5.13,71,54,3,8,1758,91,5,1,2,Other,IT,Data Science,Startup,Intermediate,3-5,No,1
+9.81,75,79,2,4,697,50,6,4,10,Female,CSE,Cloud,MNC,Advanced,5+,Yes,1
+9.18,67,81,0,10,1719,48,1,3,5,Male,MECH,AI/ML,MNC,Advanced,1-2,Yes,1
+8.48,99,57,3,1,1518,8,8,6,3,Male,ECE,Cloud,MNC,Advanced,3-5,Yes,1
+7.04,63,59,4,7,673,57,9,6,1,Female,ECE,Software Dev,Remote,Advanced,None,Yes,1
+5.87,96,87,2,10,1270,44,9,5,0,Female,IT,Data Science,Research,Advanced,3-5,Yes,1
+5.78,78,96,4,1,542,21,0,9,0,Female,CSE,Data Science,Startup,Intermediate,1-2,Yes,0
+6.25,61,81,1,2,1587,31,0,4,10,Female,IT,Data Science,None,Advanced,1-2,No,0
+7.75,85,97,2,9,856,68,2,0,9,Male,IT,Cyber Security,None,Beginner,3-5,No,1
+8.57,84,77,3,0,1611,86,2,2,2,Other,CIVIL,Cloud,Research,Advanced,1-2,No,1
+8.3,61,66,2,10,896,68,0,8,3,Other,MECH,Cyber Security,MNC,Intermediate,5+,Yes,1
+6.4,56,80,4,1,1462,41,6,0,1,Male,ECE,General,MNC,Advanced,3-5,No,1
+9.77,78,57,0,6,277,52,3,4,10,Other,CIVIL,AI/ML,MNC,Advanced,None,No,1
+8.69,60,89,2,9,551,95,9,1,10,Male,EEE,General,MNC,Intermediate,3-5,Yes,1
+7.77,82,74,3,1,1636,58,1,3,10,Other,ECE,Software Dev,MNC,Advanced,3-5,No,1
+8.06,55,58,1,5,110,73,9,10,0,Female,ECE,Cyber Security,Research,Intermediate,3-5,Yes,0
+7.1,96,51,5,2,384,38,4,0,3,Female,MECH,Cyber Security,Remote,Advanced,3-5,No,1
+6.24,64,64,0,3,1856,14,5,2,6,Female,EEE,General,Startup,Beginner,None,Yes,0
+6.78,81,99,1,10,760,70,8,9,9,Male,CSE,Software Dev,MNC,Advanced,None,Yes,1
+8.79,100,52,2,7,1214,28,3,6,10,Male,EEE,Data Science,Remote,Intermediate,None,No,1
+5.07,60,98,4,2,1513,2,1,9,5,Other,CSE,Software Dev,None,Beginner,3-5,Yes,0
+5.58,72,85,4,9,693,82,4,2,5,Other,EEE,Cloud,Research,Intermediate,5+,No,1
+5.23,75,53,3,5,1449,9,2,3,10,Other,IT,General,Remote,Advanced,5+,Yes,1
+5.2,83,63,4,0,404,91,1,1,8,Male,EEE,Software Dev,MNC,Beginner,None,No,1
+9.28,95,90,0,6,1358,28,0,2,1,Other,CIVIL,Data Science,MNC,Intermediate,5+,No,0
+8.52,83,90,4,7,1232,78,9,8,3,Female,CIVIL,Software Dev,MNC,Beginner,5+,Yes,1
+7.37,78,74,3,10,21,34,1,2,4,Other,MECH,Cyber Security,Remote,Beginner,5+,No,0
+5.49,53,99,5,7,677,5,5,10,0,Female,CSE,AI/ML,MNC,Intermediate,5+,No,0
+7.46,66,59,2,2,610,11,7,4,7,Male,ECE,Cyber Security,Remote,Beginner,5+,No,0
+7.37,84,70,2,9,1231,37,2,1,7,Female,MECH,AI/ML,MNC,Intermediate,1-2,Yes,1
+5.87,62,85,4,0,7,76,10,3,5,Female,CIVIL,Software Dev,None,Beginner,None,Yes,1
+7.17,90,61,1,8,701,92,8,6,4,Female,CIVIL,Cloud,None,Beginner,3-5,No,1
+6.99,88,76,2,5,1710,18,8,6,7,Male,CSE,Software Dev,Startup,Beginner,5+,No,1
+8.08,64,89,5,10,1808,66,1,2,2,Male,CIVIL,Data Science,MNC,Advanced,1-2,Yes,1
+8.18,78,51,4,8,528,7,7,4,2,Male,CIVIL,Software Dev,MNC,Advanced,3-5,Yes,1
+5.23,78,62,3,6,601,7,9,0,1,Male,CSE,AI/ML,Remote,Intermediate,1-2,No,1
+6.87,60,81,5,0,1676,83,10,9,4,Other,CIVIL,Cyber Security,Remote,Beginner,5+,Yes,1
+8.13,81,80,4,0,656,46,4,9,2,Male,ECE,Cloud,MNC,Intermediate,5+,Yes,0
+7.52,51,65,5,5,165,3,3,9,2,Female,IT,Software Dev,Startup,Advanced,5+,No,0
+9.28,96,81,2,4,848,50,9,10,5,Male,MECH,Software Dev,MNC,Advanced,5+,Yes,1
+8.29,63,81,3,8,495,84,4,0,7,Other,ECE,Cyber Security,Remote,Advanced,3-5,Yes,1
+5.81,69,83,4,1,589,66,3,4,1,Other,ECE,Cloud,MNC,Advanced,3-5,Yes,1
+5.35,71,60,0,7,428,44,7,9,3,Other,IT,General,Remote,Intermediate,1-2,No,0
+8.21,60,59,3,10,773,7,3,8,10,Female,MECH,Software Dev,MNC,Beginner,None,Yes,0
+5.13,76,64,0,4,162,86,9,0,6,Male,ECE,Software Dev,Research,Intermediate,5+,No,1
+7.93,52,66,5,1,365,15,5,0,0,Male,CIVIL,General,Remote,Beginner,1-2,Yes,0
+9.7,66,89,1,9,1549,76,1,3,0,Male,IT,AI/ML,Startup,Advanced,1-2,Yes,1
+7.88,93,67,3,10,1262,66,4,3,9,Female,MECH,AI/ML,Research,Beginner,1-2,No,1
+6.94,77,58,5,10,71,8,5,1,6,Female,EEE,Data Science,MNC,Advanced,5+,No,1
+8.22,78,74,0,5,1468,59,4,8,6,Other,CSE,Cyber Security,Remote,Intermediate,5+,No,0
+7.29,70,89,2,9,654,77,1,8,0,Other,CIVIL,Cloud,Research,Beginner,1-2,No,0
+7.73,96,63,2,7,1845,76,6,1,0,Male,IT,Software Dev,Startup,Intermediate,5+,Yes,1
+9.71,65,74,1,3,1532,70,3,8,3,Female,CSE,Software Dev,Remote,Advanced,1-2,No,1
+6.93,86,99,3,1,1818,14,7,5,4,Female,EEE,Data Science,Research,Intermediate,3-5,No,0
+9.81,69,71,3,10,268,70,6,7,4,Male,ECE,Software Dev,Research,Advanced,5+,No,1
+9.53,55,79,3,4,1776,97,6,9,3,Male,ECE,Cyber Security,Research,Advanced,3-5,Yes,1
+5.98,68,69,5,1,414,40,8,3,7,Other,MECH,Data Science,None,Advanced,None,Yes,1
+5.35,54,70,1,1,1268,21,0,1,6,Other,IT,Cyber Security,MNC,Intermediate,5+,No,0
+5.5,52,93,3,5,1015,23,9,1,8,Other,IT,Data Science,Remote,Intermediate,None,No,1
+5.09,50,81,5,10,674,100,5,8,6,Male,MECH,Software Dev,Remote,Beginner,1-2,No,1
+5.47,87,100,2,9,1083,43,5,0,9,Male,CSE,Data Science,Remote,Beginner,5+,No,1
+8.42,64,95,0,8,5,0,5,6,0,Other,ECE,AI/ML,Research,Intermediate,5+,Yes,0
+5.36,83,98,5,3,1732,9,5,10,6,Other,ECE,Cloud,MNC,Intermediate,5+,No,0
+6.59,84,70,2,5,981,79,9,2,0,Female,IT,Software Dev,Startup,Intermediate,None,Yes,1
+9.22,98,84,2,6,569,71,6,2,6,Female,IT,General,Remote,Intermediate,None,No,1
+5.12,74,81,0,10,1840,55,9,1,9,Other,MECH,Cloud,MNC,Advanced,1-2,No,1
+9.07,73,79,2,5,406,88,5,9,7,Other,EEE,Software Dev,MNC,Advanced,3-5,Yes,1
+6.41,61,88,1,7,1240,49,0,5,10,Female,CSE,Cloud,None,Advanced,3-5,No,1
+5.59,67,98,0,3,1953,11,2,9,8,Other,CIVIL,AI/ML,Remote,Intermediate,None,No,0
+8.48,64,61,2,0,25,88,1,1,2,Female,EEE,Cloud,Research,Advanced,5+,No,1
+8.14,93,90,4,6,1838,80,5,9,3,Female,EEE,Data Science,MNC,Advanced,3-5,No,1
+9.39,65,96,5,2,1028,59,7,3,3,Female,IT,Cloud,MNC,Beginner,3-5,Yes,1
+8.68,76,67,2,5,985,25,2,9,8,Male,IT,Software Dev,Startup,Beginner,None,No,0
+9.02,57,70,1,1,1555,77,9,8,6,Male,IT,General,None,Advanced,1-2,No,1
+6.41,95,62,3,8,389,40,7,8,2,Other,EEE,General,MNC,Advanced,None,Yes,1
+5.89,74,70,2,0,709,35,7,5,9,Female,CSE,Cyber Security,MNC,Advanced,None,No,1
+8.75,66,57,3,5,570,22,4,3,4,Male,IT,Cloud,Research,Intermediate,5+,Yes,1
+9.03,78,95,4,5,1471,42,7,6,6,Other,ECE,General,Research,Beginner,None,No,1
+9.95,57,89,2,4,753,5,5,0,7,Other,CSE,Cloud,Startup,Beginner,5+,No,1
+7.06,64,95,0,4,145,68,4,3,0,Other,ECE,General,Startup,Beginner,1-2,No,0
+6.86,76,56,3,0,1411,42,8,4,1,Other,CSE,Cloud,Startup,Advanced,5+,Yes,1
+8.88,95,72,4,9,784,24,6,7,6,Other,IT,Software Dev,Research,Intermediate,1-2,Yes,1
+6.7,99,93,0,4,1272,17,7,1,10,Female,CIVIL,Cloud,Research,Beginner,1-2,No,1
+9.65,56,81,0,1,525,61,0,4,1,Other,MECH,Software Dev,None,Beginner,1-2,Yes,0
+9.29,52,60,0,6,1485,12,10,5,6,Female,IT,Software Dev,Remote,Intermediate,None,No,1
+7.14,78,71,0,2,12,42,1,4,8,Male,EEE,Cyber Security,Remote,Advanced,5+,Yes,0
+8.75,93,71,2,3,902,77,7,8,10,Other,CIVIL,General,None,Advanced,3-5,No,1
+8.77,73,92,5,2,383,27,8,9,1,Male,EEE,Data Science,Remote,Beginner,None,Yes,0
+5.52,52,74,2,2,555,17,3,0,6,Female,CSE,Software Dev,Research,Beginner,1-2,No,0
+9.51,69,71,2,3,886,58,9,2,3,Female,EEE,General,Remote,Intermediate,3-5,Yes,1
+7.53,95,77,4,4,1422,59,10,1,10,Male,CIVIL,AI/ML,Research,Beginner,None,Yes,1
+9.13,64,78,4,0,18,62,9,2,1,Other,CIVIL,Cloud,None,Intermediate,3-5,Yes,1
+6.6,74,62,5,3,574,56,8,9,6,Other,IT,AI/ML,Startup,Beginner,1-2,Yes,1
+9.48,79,67,4,10,1514,91,3,8,4,Male,ECE,Cloud,None,Beginner,3-5,No,1
+6.95,63,51,1,7,750,50,9,8,0,Male,IT,Cyber Security,Remote,Beginner,3-5,No,0
+5.05,56,78,5,9,1003,55,9,9,4,Male,CSE,Software Dev,Research,Advanced,1-2,Yes,1
+9.53,66,70,4,6,418,26,9,1,2,Other,EEE,Data Science,Remote,Intermediate,3-5,No,1
+5.46,93,64,5,8,1360,31,8,2,6,Other,ECE,Software Dev,Remote,Intermediate,None,Yes,1
+6.6,69,76,2,4,418,8,10,3,5,Other,MECH,Cloud,Startup,Advanced,3-5,No,1
+9.75,85,99,2,9,1938,95,6,8,7,Male,CIVIL,Data Science,Remote,Advanced,5+,Yes,1
+9.75,58,80,5,3,1939,83,1,2,4,Other,ECE,Software Dev,Startup,Advanced,None,No,1
+7.87,87,64,1,7,1635,91,8,6,1,Female,ECE,Data Science,Research,Intermediate,3-5,No,1
+8.16,97,100,1,8,1698,96,3,2,8,Male,IT,Cloud,Research,Beginner,5+,Yes,1
+7.24,71,72,5,6,1951,67,7,6,10,Other,MECH,Cyber Security,Startup,Advanced,5+,Yes,1
+6.47,51,73,4,6,121,45,6,6,7,Male,CIVIL,Cyber Security,None,Advanced,5+,Yes,1
+6.64,73,93,3,4,431,97,6,8,5,Female,CSE,Software Dev,Research,Advanced,3-5,Yes,1
+8.36,57,62,1,3,43,66,7,1,9,Female,CSE,AI/ML,None,Beginner,1-2,Yes,1
+8.76,60,71,0,9,1895,25,0,5,6,Male,ECE,Cloud,Research,Beginner,5+,No,0
+8.96,62,92,2,0,1943,7,4,8,8,Male,ECE,Software Dev,Research,Advanced,1-2,Yes,0
+8.95,66,86,5,9,1340,5,1,1,6,Female,EEE,Software Dev,MNC,Beginner,None,No,1
+5.46,57,82,0,9,380,79,1,1,2,Male,MECH,Cyber Security,Remote,Advanced,1-2,Yes,1
+7.47,70,52,5,6,144,23,0,4,5,Female,CIVIL,Data Science,Remote,Beginner,1-2,No,0
+5.29,67,68,2,0,1350,47,4,9,10,Female,ECE,Cloud,None,Intermediate,1-2,No,0
+7.75,79,72,2,0,362,93,1,9,10,Other,EEE,Data Science,Remote,Intermediate,1-2,Yes,1
+7.21,67,78,1,4,1073,44,3,9,6,Male,MECH,General,None,Beginner,1-2,Yes,0
+9.44,95,79,1,8,1088,12,2,7,1,Male,CIVIL,General,Research,Intermediate,None,No,0
+6.75,96,88,0,5,354,68,2,10,2,Other,CSE,Cloud,MNC,Intermediate,None,No,0
+5.59,80,93,5,2,799,24,1,8,3,Female,EEE,AI/ML,MNC,Intermediate,1-2,Yes,0
+5.71,87,96,2,2,1187,19,5,1,9,Male,MECH,General,Research,Advanced,1-2,No,1
+8.81,81,74,0,6,1164,81,1,4,5,Other,EEE,Cyber Security,Startup,Beginner,5+,No,1
+8.09,60,86,3,5,1989,81,7,6,0,Other,ECE,AI/ML,Startup,Beginner,None,No,1
+5.51,94,96,0,8,825,65,7,5,8,Male,IT,Software Dev,Remote,Beginner,3-5,No,1
+5.42,74,57,4,5,1151,73,4,5,4,Other,CSE,General,None,Intermediate,None,No,1
+8.5,82,91,0,4,397,44,9,6,6,Female,ECE,Cyber Security,MNC,Advanced,3-5,No,1
+5.36,87,65,4,9,1956,46,6,2,8,Other,ECE,Software Dev,Remote,Beginner,5+,Yes,1
+9.11,90,57,4,6,879,62,3,2,8,Female,MECH,AI/ML,Research,Intermediate,1-2,Yes,1
+8.53,57,50,4,0,462,75,0,9,0,Female,EEE,Cloud,MNC,Advanced,5+,Yes,0
+5.41,60,93,3,6,1774,76,10,8,0,Male,CSE,Software Dev,None,Advanced,1-2,Yes,1
+5.42,71,54,0,2,1859,54,1,7,2,Other,ECE,Data Science,None,Beginner,None,No,0
+9.93,100,52,0,8,807,74,9,4,5,Female,MECH,Cloud,Startup,Beginner,1-2,Yes,1
+6.87,73,50,3,5,186,18,9,5,1,Female,CSE,Cloud,Remote,Intermediate,3-5,No,0
+6.85,90,53,2,8,1743,34,3,10,9,Other,EEE,AI/ML,Research,Beginner,3-5,No,0
+9.06,66,89,1,4,731,52,0,9,10,Female,ECE,AI/ML,MNC,Intermediate,5+,Yes,0
+9.74,61,84,0,6,1935,25,7,0,0,Other,CIVIL,Cyber Security,None,Advanced,None,Yes,1
+9.93,95,81,1,3,1213,13,8,9,0,Male,ECE,Cyber Security,MNC,Advanced,3-5,No,0
+8.77,81,91,5,6,1411,44,3,0,4,Female,ECE,Data Science,Research,Advanced,5+,Yes,1
+6.88,64,83,5,0,428,43,9,3,3,Female,CSE,Cloud,MNC,Advanced,None,Yes,1
+5.42,65,92,3,6,857,87,2,1,0,Other,CSE,Data Science,Remote,Beginner,None,No,1
+8.89,71,74,5,7,1307,64,1,10,3,Other,CSE,Data Science,Startup,Beginner,5+,No,1
+7.79,77,59,5,4,1887,50,4,6,2,Other,CSE,AI/ML,MNC,Intermediate,3-5,No,1
+7.12,69,70,2,1,236,42,2,1,1,Other,MECH,Data Science,Startup,Intermediate,3-5,No,0
+9.53,82,95,2,4,1217,85,9,9,8,Female,IT,Data Science,Research,Intermediate,5+,No,1
+5.56,59,88,2,5,1310,22,6,1,10,Male,MECH,Software Dev,Startup,Intermediate,3-5,No,1
+7.46,89,76,5,1,770,55,10,4,0,Male,ECE,Cyber Security,MNC,Intermediate,5+,Yes,1
+5.06,81,76,3,5,757,18,5,3,6,Male,MECH,Cyber Security,MNC,Advanced,3-5,Yes,1
+7.34,99,51,4,5,135,81,0,7,3,Male,EEE,Cloud,None,Advanced,3-5,Yes,1
+5.28,82,90,4,0,791,75,7,3,4,Other,CIVIL,Cyber Security,MNC,Advanced,5+,No,1
+5.59,51,97,1,0,1806,54,1,5,9,Female,CSE,General,Startup,Intermediate,5+,No,1
+5.59,82,62,4,10,170,91,4,4,4,Female,EEE,Cloud,None,Advanced,3-5,Yes,1
+8.25,82,58,4,9,158,91,8,10,0,Female,CIVIL,Software Dev,MNC,Advanced,5+,Yes,1
+8.73,90,85,2,2,200,59,7,1,5,Other,EEE,Cyber Security,MNC,Advanced,3-5,Yes,1
+7.92,62,71,2,9,1510,58,1,10,8,Female,ECE,Software Dev,Research,Advanced,1-2,No,1
+9.81,79,91,5,9,1580,32,8,7,1,Other,CSE,Cyber Security,None,Beginner,None,Yes,1
+6.87,82,75,1,2,961,18,4,1,6,Female,EEE,Cyber Security,Research,Intermediate,None,Yes,0
+6.43,62,61,0,3,1799,27,9,8,5,Male,ECE,Software Dev,Research,Intermediate,3-5,Yes,0
+9.34,75,66,1,1,582,51,5,8,4,Other,CSE,Data Science,Research,Beginner,None,No,0
+6.12,71,63,1,8,1527,48,2,2,3,Female,IT,Data Science,Remote,Advanced,3-5,Yes,1
+9.82,88,63,3,9,875,36,2,3,3,Male,ECE,Data Science,Research,Advanced,5+,Yes,1
+5.06,51,83,5,10,370,25,9,7,5,Male,MECH,General,Startup,Advanced,1-2,No,1
+9.85,87,69,3,6,102,98,7,8,3,Male,CSE,Data Science,MNC,Intermediate,None,No,1
+5.22,88,60,1,6,1001,97,10,2,4,Other,EEE,Cyber Security,Remote,Intermediate,None,No,1
+9.46,75,65,1,5,1148,98,9,4,5,Other,CIVIL,AI/ML,Research,Intermediate,5+,No,1
+7.64,95,100,1,2,1336,39,9,10,4,Female,EEE,Software Dev,MNC,Intermediate,1-2,No,0
+9.96,99,80,4,5,975,79,1,7,6,Male,MECH,AI/ML,None,Intermediate,1-2,Yes,1
+5.37,64,55,3,7,797,37,10,2,8,Female,MECH,General,None,Beginner,1-2,Yes,1
+7.77,83,68,1,7,1481,76,1,6,9,Female,EEE,AI/ML,MNC,Intermediate,5+,No,1
+9.85,91,86,2,10,1253,86,4,10,6,Male,CIVIL,Cloud,Startup,Advanced,None,No,1
+7.62,93,53,5,8,657,53,5,7,6,Female,CSE,Data Science,MNC,Intermediate,None,No,1
+8.15,98,96,5,0,881,21,1,9,3,Other,ECE,General,MNC,Beginner,1-2,No,0
+8.48,89,53,2,0,1220,15,4,10,0,Female,MECH,Cyber Security,Remote,Advanced,5+,Yes,0
+7.27,60,69,5,2,1908,27,6,2,7,Male,MECH,Data Science,None,Beginner,5+,Yes,1
+8.14,52,59,4,2,732,34,9,1,3,Other,MECH,Data Science,None,Advanced,5+,No,1
+7.92,55,73,4,9,422,59,9,9,0,Other,CIVIL,AI/ML,Research,Intermediate,1-2,No,1
+9.51,58,84,0,7,571,44,7,6,4,Female,IT,Cloud,MNC,Beginner,5+,No,1
+5.23,55,75,0,9,1633,45,6,8,7,Female,CIVIL,Data Science,MNC,Advanced,1-2,No,1
+6.4,58,86,0,0,170,71,7,0,3,Other,CSE,Software Dev,Startup,Intermediate,1-2,Yes,1
+9.75,88,87,5,1,1405,54,8,2,7,Female,CSE,Software Dev,None,Advanced,1-2,No,1
+9.45,80,70,4,1,172,85,4,4,7,Male,CSE,Data Science,Startup,Beginner,3-5,No,1
+7.28,81,89,4,2,662,84,4,2,2,Female,CSE,AI/ML,Remote,Beginner,1-2,Yes,1
+8.1,90,88,4,5,452,25,10,0,8,Female,CSE,AI/ML,Research,Beginner,5+,No,1
+6.39,99,70,2,0,349,84,9,6,2,Other,EEE,Cyber Security,Startup,Beginner,3-5,Yes,1
+5.94,61,59,4,1,1925,24,3,6,0,Female,MECH,General,None,Intermediate,None,No,0
+7.32,57,87,2,0,1975,64,8,9,1,Female,CIVIL,General,Remote,Advanced,None,No,1
+6.77,57,95,0,4,1657,5,4,7,5,Female,EEE,General,MNC,Intermediate,5+,Yes,0
+7.92,99,53,0,6,493,22,1,4,9,Male,CIVIL,Cloud,Remote,Beginner,5+,No,0
+5.39,77,94,5,7,619,63,9,9,1,Female,IT,AI/ML,Startup,Advanced,5+,Yes,1
+9.87,69,69,0,9,1027,86,7,4,5,Male,ECE,Cyber Security,None,Beginner,5+,Yes,1
+9.93,96,66,5,0,1116,42,6,4,0,Male,MECH,Software Dev,Startup,Intermediate,3-5,Yes,1
+8.49,56,56,1,6,918,22,7,0,10,Male,IT,General,MNC,Intermediate,5+,No,1
+7.68,60,53,1,4,5,95,2,9,0,Male,EEE,Software Dev,MNC,Intermediate,1-2,No,0
+6.55,69,78,3,9,287,29,3,4,4,Other,ECE,Software Dev,None,Advanced,None,Yes,1
+9.07,65,63,5,0,1641,76,4,5,9,Male,IT,Data Science,Research,Advanced,5+,No,1
+8.42,53,52,3,2,1169,17,5,0,10,Female,CIVIL,Cloud,Remote,Beginner,1-2,No,1
+5.81,55,73,3,6,1806,86,0,10,8,Male,ECE,Cyber Security,Remote,Advanced,5+,No,1
+9.55,71,86,1,9,1447,78,3,6,7,Female,CIVIL,Cloud,MNC,Advanced,1-2,Yes,1
+9.11,75,65,5,0,1913,96,10,0,2,Male,IT,Data Science,Startup,Intermediate,3-5,Yes,1
+9.75,52,53,1,6,607,20,9,10,2,Other,EEE,Cyber Security,Startup,Beginner,None,No,0
+8.63,90,73,3,4,456,56,4,1,0,Male,CIVIL,Cyber Security,Research,Intermediate,None,Yes,1
+8.07,91,83,5,0,1764,22,6,1,2,Male,ECE,AI/ML,Startup,Beginner,3-5,No,1
+7.09,63,79,3,0,1225,90,4,4,10,Other,IT,Cloud,Remote,Beginner,1-2,No,1
+9.66,60,67,4,0,1235,44,0,9,0,Male,CIVIL,Cloud,Startup,Advanced,5+,No,0
+9.33,67,68,5,10,1029,43,10,6,7,Female,EEE,AI/ML,Research,Intermediate,1-2,Yes,1
+5.23,61,80,5,8,623,81,6,0,0,Male,MECH,Software Dev,Remote,Advanced,None,Yes,1
+5.13,72,68,3,10,375,87,7,9,4,Male,EEE,Data Science,Startup,Advanced,3-5,No,1
+6.88,61,98,4,2,1914,46,6,0,8,Male,EEE,Cloud,Remote,Advanced,3-5,Yes,1
+9.05,62,95,2,4,446,39,10,0,6,Other,MECH,AI/ML,MNC,Beginner,1-2,No,1
+9.94,74,68,1,10,834,50,3,5,3,Male,EEE,Cyber Security,MNC,Intermediate,1-2,Yes,1
+5.75,94,71,3,9,1129,41,7,1,10,Male,MECH,General,MNC,Intermediate,3-5,Yes,1
+7.97,100,73,5,8,1674,6,4,0,8,Female,MECH,AI/ML,Startup,Advanced,None,Yes,1
+6.9,68,94,1,5,810,49,9,5,8,Male,CIVIL,General,Research,Beginner,5+,No,1
+9.85,95,61,1,8,1424,47,8,1,1,Male,CIVIL,Software Dev,Remote,Intermediate,5+,No,1
+9.21,85,79,1,7,1119,83,9,5,9,Male,MECH,Data Science,None,Intermediate,1-2,No,1
+9.19,94,87,2,7,1411,90,4,9,9,Male,IT,General,MNC,Advanced,3-5,Yes,1
+7.34,57,80,0,0,958,5,0,7,10,Female,ECE,Software Dev,MNC,Beginner,3-5,No,0
+7.07,78,85,3,8,1475,90,8,1,5,Female,IT,General,None,Advanced,3-5,No,1
+6.37,81,68,0,5,848,8,4,10,3,Other,MECH,Cyber Security,None,Intermediate,None,No,0
+5.28,100,97,0,8,808,56,5,8,7,Male,ECE,Cyber Security,Startup,Beginner,1-2,No,0
+9.32,93,94,0,2,978,30,3,7,10,Other,CIVIL,Cyber Security,Remote,Advanced,1-2,Yes,0
+9.06,67,85,1,2,1924,20,5,9,6,Other,ECE,Cyber Security,MNC,Intermediate,1-2,Yes,0
+10.0,55,79,4,5,415,89,7,0,6,Male,MECH,AI/ML,Research,Advanced,None,No,1
+9.98,67,98,1,8,725,39,2,6,10,Female,CIVIL,Cyber Security,Startup,Advanced,1-2,Yes,1
+7.78,68,82,1,6,1527,44,4,9,9,Female,ECE,Cyber Security,Startup,Advanced,5+,Yes,1
+8.84,71,67,5,2,453,76,1,5,8,Male,ECE,AI/ML,Research,Beginner,1-2,Yes,1
+9.72,86,98,5,2,1314,48,1,5,4,Male,IT,Cyber Security,Research,Intermediate,1-2,Yes,1
+9.25,81,77,0,1,1557,86,6,5,5,Female,ECE,Software Dev,Research,Intermediate,1-2,Yes,1
+6.24,90,96,1,8,1216,19,9,5,0,Male,MECH,Software Dev,None,Intermediate,None,No,0
+7.25,52,60,0,2,149,100,9,9,5,Male,CSE,Cloud,MNC,Intermediate,5+,Yes,1
+5.65,77,94,5,10,1903,91,10,6,1,Male,CSE,Software Dev,None,Beginner,5+,No,1
+9.77,59,82,4,4,758,16,9,2,5,Female,CSE,Data Science,MNC,Advanced,3-5,No,1
+8.03,100,66,3,8,778,27,5,5,8,Other,MECH,Data Science,None,Intermediate,3-5,No,1
+6.14,84,55,0,7,972,40,3,2,7,Other,CSE,Data Science,Remote,Beginner,5+,Yes,1
+8.36,78,53,4,1,762,65,4,6,8,Male,IT,AI/ML,MNC,Advanced,1-2,Yes,1
+8.09,64,69,3,2,1001,24,0,6,9,Female,MECH,Software Dev,Startup,Beginner,1-2,Yes,0
+6.79,82,97,2,1,1538,57,6,7,7,Male,CIVIL,Data Science,MNC,Beginner,1-2,Yes,1
+5.57,56,96,0,7,1416,40,7,1,2,Female,MECH,Cloud,MNC,Intermediate,None,No,1
+8.36,61,76,0,5,1339,5,8,8,7,Male,MECH,AI/ML,MNC,Intermediate,1-2,No,0
+7.6,98,64,2,5,75,74,7,4,5,Female,ECE,Cloud,Remote,Advanced,None,No,1
+8.86,79,55,2,8,598,37,4,8,5,Female,ECE,Software Dev,None,Advanced,5+,Yes,1
+7.6,70,96,0,7,1293,5,2,9,5,Other,ECE,Cyber Security,Startup,Intermediate,1-2,No,0
+9.26,80,63,2,3,224,44,9,4,2,Male,EEE,Cloud,None,Beginner,1-2,No,0
+7.76,73,60,1,3,1553,74,10,6,9,Other,IT,Cyber Security,None,Intermediate,3-5,No,1
+7.8,69,88,3,8,112,13,8,10,0,Other,MECH,AI/ML,Research,Advanced,5+,Yes,0
+9.38,86,58,3,0,250,65,5,8,3,Female,MECH,Cloud,Remote,Beginner,1-2,No,0
+7.02,53,75,3,1,1256,39,4,3,9,Male,ECE,Cloud,Research,Beginner,None,No,1
+5.67,77,65,1,1,840,2,2,1,5,Female,MECH,General,Remote,Beginner,5+,Yes,0
+5.14,93,54,2,5,1814,98,5,8,10,Female,CIVIL,AI/ML,None,Intermediate,3-5,No,1
+8.78,69,59,4,3,713,96,2,1,9,Female,MECH,AI/ML,None,Intermediate,5+,Yes,1
+8.1,73,99,2,10,1106,23,9,2,1,Male,CSE,Data Science,Remote,Advanced,None,No,1
+8.52,99,52,0,9,124,18,5,9,6,Male,CIVIL,Software Dev,None,Beginner,3-5,Yes,0
+6.06,98,62,5,2,1198,17,3,1,6,Female,CIVIL,Cloud,None,Beginner,None,Yes,1
+5.68,100,92,3,2,1092,63,1,2,10,Male,MECH,Cloud,Startup,Intermediate,5+,Yes,1
+5.07,81,98,2,2,1070,87,7,5,3,Female,EEE,AI/ML,Research,Advanced,3-5,No,1
+6.75,90,79,4,5,883,34,3,2,3,Male,ECE,AI/ML,Research,Advanced,None,No,1
+7.95,85,94,0,7,1279,61,8,9,0,Male,IT,Software Dev,Research,Beginner,5+,Yes,0
+6.96,83,55,1,10,1750,0,6,7,1,Other,IT,AI/ML,MNC,Intermediate,None,Yes,0
+7.19,85,66,1,6,29,99,1,10,8,Female,CSE,Cyber Security,Startup,Beginner,1-2,Yes,0
+9.52,51,94,4,3,280,24,3,5,9,Other,IT,Cyber Security,Research,Intermediate,5+,Yes,1
+6.74,64,100,0,10,923,44,4,6,7,Other,IT,General,Research,Advanced,3-5,Yes,1
+7.57,83,68,3,3,1260,48,2,0,7,Female,ECE,Cyber Security,Startup,Beginner,3-5,Yes,1
+8.92,85,91,2,10,1271,97,8,2,8,Female,ECE,Cyber Security,None,Beginner,1-2,Yes,1
+6.98,55,84,0,9,367,88,4,2,6,Male,EEE,Software Dev,Research,Beginner,None,Yes,1
+8.11,88,95,1,10,494,15,1,1,8,Female,CSE,Cloud,None,Advanced,None,Yes,1
+9.31,91,75,4,10,1048,97,10,6,9,Other,IT,Cyber Security,Research,Beginner,3-5,Yes,1
+9.75,100,100,4,10,1609,92,2,8,1,Other,EEE,General,Remote,Advanced,None,Yes,1
+5.74,100,54,2,1,717,18,8,3,5,Female,CSE,AI/ML,MNC,Intermediate,5+,Yes,1
+9.63,61,78,4,0,1513,22,6,4,2,Other,CIVIL,Cyber Security,Research,Advanced,5+,No,1
+7.46,52,86,4,8,1016,82,1,2,10,Male,IT,General,Remote,Intermediate,3-5,Yes,1
+6.29,94,69,0,1,1517,24,8,10,5,Other,IT,Software Dev,Startup,Advanced,5+,No,0
+7.3,67,98,3,7,1337,15,3,8,2,Male,ECE,AI/ML,Remote,Advanced,3-5,No,0
+9.9,89,70,2,8,605,53,8,3,7,Other,MECH,General,Startup,Beginner,None,No,1
+7.46,70,59,0,3,374,72,1,4,10,Male,CSE,Cyber Security,Research,Advanced,None,Yes,1
+6.64,64,54,3,7,638,0,9,0,3,Male,IT,Cloud,Startup,Beginner,None,No,1
+8.17,82,85,0,8,1960,41,3,10,9,Female,CSE,AI/ML,Remote,Intermediate,1-2,Yes,0
+6.2,84,55,5,9,1048,18,4,1,5,Male,EEE,AI/ML,MNC,Intermediate,3-5,No,1
+5.38,75,75,0,9,1357,96,1,8,8,Female,EEE,Cloud,None,Beginner,5+,Yes,1
+5.64,57,53,4,4,1378,33,9,1,1,Other,MECH,AI/ML,None,Intermediate,None,Yes,1
+5.64,85,88,3,6,115,79,0,4,1,Other,IT,Cyber Security,MNC,Advanced,1-2,No,1
+5.76,97,88,2,9,47,54,6,7,6,Other,ECE,AI/ML,None,Beginner,5+,No,0
+5.69,79,99,2,3,1761,17,9,2,1,Male,IT,Cyber Security,Research,Beginner,5+,Yes,1
+8.2,72,84,3,0,1801,33,0,5,1,Other,CSE,Cloud,Research,Beginner,5+,No,0
+5.91,91,50,4,2,98,88,10,3,3,Other,CIVIL,Data Science,Remote,Intermediate,None,Yes,1
+6.73,93,73,1,4,1482,44,10,10,8,Female,EEE,Cloud,Remote,Intermediate,5+,Yes,1
+9.48,63,85,0,2,1546,5,7,6,7,Female,CSE,Cyber Security,Startup,Advanced,3-5,Yes,1
+7.37,63,55,4,10,1620,20,2,9,1,Other,MECH,Software Dev,Remote,Advanced,1-2,No,0
+8.34,51,90,5,6,404,69,9,2,7,Other,EEE,Cloud,Research,Beginner,5+,Yes,1
+5.86,86,95,3,8,1237,95,5,5,3,Male,ECE,Software Dev,Remote,Advanced,5+,Yes,1
+5.96,54,93,0,5,684,47,6,9,1,Male,EEE,Software Dev,None,Intermediate,3-5,Yes,0
+5.2,87,80,2,9,902,38,9,8,10,Other,CIVIL,Cyber Security,Startup,Advanced,5+,Yes,1
+5.84,94,69,1,0,502,30,0,10,9,Female,IT,Cyber Security,Startup,Intermediate,None,No,0
+6.39,90,73,5,6,1744,9,5,9,6,Other,CIVIL,Data Science,Research,Advanced,None,No,1
+5.89,96,74,2,2,1471,29,6,0,5,Male,CIVIL,General,Remote,Intermediate,None,No,1
+5.44,63,85,3,4,893,17,5,2,9,Female,IT,AI/ML,None,Intermediate,5+,No,1
+5.6,88,70,0,9,1599,59,3,1,4,Female,EEE,Cloud,Remote,Advanced,1-2,Yes,1
+7.3,74,79,3,3,257,87,0,7,10,Male,MECH,Cyber Security,MNC,Advanced,1-2,Yes,1
+6.03,69,73,0,9,843,72,10,6,0,Other,IT,Cloud,Remote,Intermediate,5+,Yes,1
+6.82,51,93,4,4,120,94,8,1,1,Other,IT,General,Research,Beginner,1-2,Yes,1
+7.52,88,91,1,4,809,14,3,5,7,Other,ECE,General,Remote,Advanced,1-2,Yes,0
+8.45,55,79,4,5,977,3,6,2,0,Male,EEE,Software Dev,Startup,Intermediate,5+,Yes,1
+5.2,66,71,4,9,53,62,6,7,2,Female,IT,AI/ML,None,Advanced,None,No,1
+9.0,74,77,3,9,1018,39,1,9,1,Male,MECH,Data Science,Research,Advanced,5+,Yes,0
+8.14,77,56,1,10,1354,8,0,2,4,Other,CSE,Cloud,MNC,Advanced,None,Yes,1
+5.41,51,84,0,5,783,8,7,9,3,Male,EEE,AI/ML,None,Advanced,None,Yes,0
+9.37,84,77,0,7,240,25,7,8,6,Female,ECE,Data Science,None,Advanced,1-2,No,0
+9.6,86,63,5,7,1778,3,6,0,4,Male,CIVIL,Cloud,Startup,Beginner,1-2,Yes,1
+5.31,54,59,2,10,1553,80,7,4,7,Other,IT,AI/ML,Startup,Beginner,None,Yes,1
+6.38,50,65,5,8,482,15,2,2,3,Female,MECH,Cyber Security,Startup,Beginner,None,Yes,1
+9.03,89,65,5,7,1012,14,10,5,5,Male,EEE,Cloud,Research,Intermediate,1-2,No,1
+8.74,61,80,0,10,186,98,1,9,3,Male,MECH,AI/ML,Remote,Beginner,3-5,Yes,0
+5.92,85,91,3,1,1881,51,6,1,1,Female,MECH,General,None,Beginner,None,Yes,1
+6.05,94,74,4,9,655,68,7,8,0,Female,CIVIL,Data Science,Remote,Intermediate,None,No,1
+6.85,72,62,4,10,261,4,0,5,0,Other,ECE,AI/ML,Remote,Beginner,None,Yes,0
+7.42,96,55,4,0,952,19,9,6,7,Female,EEE,Cyber Security,Startup,Advanced,1-2,No,1
+8.09,80,93,1,9,1387,78,8,4,3,Other,IT,Cloud,Remote,Beginner,5+,Yes,1
+6.84,60,58,0,1,490,17,10,8,4,Male,ECE,Cloud,None,Beginner,None,No,0
+7.31,59,94,3,1,430,1,3,0,10,Other,IT,Cloud,None,Beginner,None,Yes,0
+8.74,52,85,1,2,238,92,3,4,7,Male,CSE,Cyber Security,MNC,Advanced,None,Yes,1
+5.18,63,92,2,9,303,12,2,10,6,Female,MECH,Data Science,Research,Advanced,5+,No,0
+6.26,65,69,3,6,297,3,5,9,7,Male,CSE,Cloud,Remote,Advanced,5+,Yes,0
+8.57,59,67,5,1,75,41,0,10,7,Female,MECH,Data Science,Research,Advanced,None,Yes,0
+9.48,78,92,3,0,1723,73,5,5,5,Male,CIVIL,AI/ML,Research,Intermediate,None,No,1
+7.56,59,70,3,5,1356,60,1,6,9,Male,ECE,General,Research,Advanced,3-5,Yes,1
+7.66,61,53,4,8,1923,94,8,3,1,Male,IT,General,Research,Advanced,5+,No,1
+5.54,79,99,3,2,998,7,1,0,5,Male,CIVIL,Data Science,None,Advanced,3-5,Yes,1
+7.24,90,82,5,5,1781,66,6,10,0,Other,IT,Data Science,Remote,Advanced,None,No,1
+7.66,50,76,5,2,641,62,0,7,0,Male,ECE,General,MNC,Intermediate,None,Yes,1
+6.21,54,56,0,0,1497,8,6,9,10,Other,EEE,Cloud,Research,Beginner,None,Yes,0
+6.35,69,55,3,4,826,93,4,3,2,Female,CSE,Software Dev,MNC,Beginner,None,No,1
+6.89,57,64,4,9,1946,10,7,2,2,Female,CSE,Software Dev,None,Advanced,1-2,Yes,1
+5.1,92,67,3,10,282,98,3,6,10,Other,IT,Cyber Security,None,Advanced,1-2,No,1
+6.61,61,81,2,3,590,100,9,1,4,Female,IT,General,Startup,Advanced,1-2,No,1
+6.06,50,60,2,6,71,41,6,7,0,Female,IT,General,Research,Beginner,3-5,No,0
+6.64,69,69,4,5,1286,12,5,5,9,Male,ECE,Cyber Security,Startup,Beginner,5+,Yes,1
+5.6,77,73,0,9,702,35,4,6,5,Male,EEE,Software Dev,MNC,Advanced,None,Yes,1
+9.45,92,64,0,6,1902,12,3,4,6,Male,CSE,AI/ML,Remote,Beginner,5+,Yes,0
+7.97,86,97,5,4,1910,11,6,8,9,Other,CIVIL,Cloud,Startup,Intermediate,1-2,No,1
+8.4,96,56,5,3,1965,36,4,4,10,Other,MECH,Cloud,None,Advanced,None,No,1
+8.95,86,70,1,6,574,73,4,10,2,Female,ECE,AI/ML,Research,Advanced,None,No,0
+7.49,61,91,4,6,999,72,0,4,3,Male,CSE,AI/ML,MNC,Intermediate,3-5,Yes,1
+5.43,86,75,3,5,891,51,1,2,9,Other,EEE,Software Dev,None,Intermediate,5+,No,1
+7.69,98,93,4,7,11,70,4,10,10,Other,ECE,Cyber Security,Remote,Beginner,3-5,Yes,1
+7.93,98,63,1,3,140,1,2,0,9,Male,CIVIL,AI/ML,Research,Intermediate,1-2,Yes,0
+8.73,93,86,5,9,1789,55,1,1,9,Other,CSE,Cyber Security,Remote,Advanced,5+,Yes,1
+7.16,77,70,4,4,1578,59,3,7,9,Male,ECE,Data Science,Remote,Beginner,1-2,Yes,1
+5.64,96,67,4,3,16,22,3,0,9,Female,CSE,Cloud,Research,Intermediate,3-5,Yes,1
+6.42,64,54,5,0,1086,39,3,6,2,Female,CSE,Software Dev,Research,Beginner,3-5,Yes,0
+6.82,55,52,1,7,252,63,3,4,0,Female,EEE,Cloud,Remote,Beginner,None,Yes,0
+8.23,93,72,5,0,464,84,2,2,7,Male,MECH,Software Dev,MNC,Beginner,5+,Yes,1
+7.85,69,75,0,4,375,22,6,10,9,Other,EEE,Data Science,Research,Beginner,5+,No,0
+6.78,99,86,3,5,1827,28,8,6,9,Female,CSE,Cloud,None,Intermediate,None,Yes,1
+9.93,63,73,5,5,980,77,4,8,1,Female,ECE,Data Science,Startup,Advanced,5+,Yes,1
+8.03,51,98,1,4,519,89,3,1,0,Female,CIVIL,Software Dev,MNC,Advanced,1-2,No,1
+6.19,58,68,2,2,1860,50,10,7,7,Other,EEE,AI/ML,Research,Intermediate,1-2,No,1
+5.51,86,100,0,4,89,68,1,8,6,Other,MECH,Cloud,Research,Advanced,3-5,No,0
+5.76,69,74,2,7,719,94,1,10,6,Male,CSE,Data Science,MNC,Beginner,1-2,No,0
+6.23,75,70,5,1,803,88,4,2,3,Female,CIVIL,General,Startup,Beginner,5+,Yes,1
+5.8,78,61,0,5,795,30,6,1,10,Other,EEE,Cloud,Remote,Beginner,None,No,1
+5.93,50,90,3,8,629,49,9,6,8,Male,EEE,Cloud,None,Intermediate,3-5,No,1
+6.43,84,82,5,7,1884,19,9,4,5,Female,EEE,Cloud,Research,Beginner,None,No,1
+5.87,55,99,3,10,1198,54,8,4,1,Other,EEE,Cyber Security,Startup,Beginner,3-5,No,1
+9.48,86,53,4,7,75,80,6,9,0,Other,CIVIL,Data Science,None,Intermediate,3-5,Yes,1
+5.4,54,91,2,7,1636,1,4,4,0,Male,ECE,Data Science,MNC,Beginner,None,No,0
+7.62,82,56,0,6,925,24,9,3,8,Female,MECH,Cloud,Research,Beginner,1-2,No,1
+7.05,98,71,3,7,1686,12,9,4,3,Female,MECH,AI/ML,Remote,Advanced,1-2,No,1
+9.91,100,82,1,5,399,91,9,3,4,Other,CSE,Cloud,MNC,Intermediate,1-2,No,1
+5.56,63,66,3,1,1805,69,5,5,2,Female,IT,Cyber Security,Research,Beginner,1-2,Yes,1
+6.99,61,73,1,1,969,66,10,3,3,Male,ECE,Software Dev,Startup,Beginner,None,No,1
+9.85,91,83,5,7,1094,57,2,1,7,Other,CSE,Cyber Security,None,Beginner,5+,No,1
+9.33,69,77,0,10,1203,98,4,8,3,Other,CSE,AI/ML,None,Beginner,3-5,No,1
+9.09,99,92,3,0,1147,81,7,1,8,Male,EEE,Cloud,Research,Advanced,None,Yes,1
+6.29,73,90,3,5,1404,74,0,8,8,Other,IT,Data Science,MNC,Advanced,1-2,No,1
+5.85,92,88,0,5,1316,83,0,9,5,Female,IT,General,Remote,Advanced,1-2,No,0
+8.34,83,71,3,10,796,63,6,5,1,Female,ECE,Cloud,Startup,Advanced,None,Yes,1
+9.65,74,98,1,3,194,68,4,8,9,Other,IT,AI/ML,Research,Intermediate,3-5,No,0
+7.78,99,66,3,10,1934,82,4,8,10,Male,CSE,Data Science,Startup,Beginner,None,Yes,1
+7.86,78,83,2,10,227,85,0,2,6,Male,IT,Cyber Security,None,Advanced,None,Yes,1
+6.4,88,55,5,9,1454,58,8,0,8,Female,IT,Software Dev,Remote,Beginner,5+,No,1
+8.85,80,95,4,2,1965,59,0,0,5,Male,MECH,Software Dev,Startup,Intermediate,None,No,1
+5.94,96,55,1,10,1459,82,4,2,2,Other,CSE,Cloud,Research,Beginner,5+,Yes,1
+6.62,92,83,2,2,1810,61,9,4,6,Other,CIVIL,Cyber Security,Remote,Beginner,3-5,Yes,1
+7.13,99,50,5,0,460,15,8,2,4,Female,IT,General,MNC,Advanced,None,No,1
+7.54,72,59,0,2,617,87,3,8,0,Female,IT,General,Research,Advanced,None,Yes,0
+6.21,93,70,1,3,1044,67,7,8,2,Female,EEE,AI/ML,Startup,Intermediate,1-2,Yes,1
+5.57,87,54,4,10,63,14,5,2,4,Male,IT,Software Dev,Remote,Beginner,None,No,0
+8.05,69,51,5,10,164,88,10,2,6,Other,IT,Cyber Security,Research,Advanced,1-2,Yes,1
+6.44,72,71,4,4,26,54,2,4,2,Other,MECH,Cloud,Remote,Advanced,1-2,Yes,1
+7.91,94,97,0,2,1334,34,3,1,5,Other,CSE,Data Science,Remote,Advanced,1-2,Yes,1
+5.77,65,51,0,5,1011,54,1,5,4,Female,ECE,Cloud,Remote,Intermediate,3-5,Yes,0
+7.41,99,59,1,10,284,13,0,6,0,Other,CSE,Cloud,Startup,Beginner,5+,Yes,0
+7.66,91,83,3,4,1683,48,7,8,9,Male,EEE,Cyber Security,Research,Advanced,1-2,Yes,1
+5.26,57,65,0,2,280,82,0,5,5,Male,CSE,Software Dev,None,Beginner,None,No,0
+6.68,99,97,5,5,837,99,10,2,7,Other,IT,Cyber Security,None,Intermediate,None,Yes,1
+5.67,70,100,3,5,830,6,0,4,0,Female,EEE,Data Science,Startup,Beginner,1-2,No,0
+5.32,50,88,2,7,1187,29,3,3,1,Other,CSE,Cyber Security,Startup,Advanced,1-2,No,1
+9.95,57,71,4,1,1921,82,9,4,3,Male,EEE,AI/ML,Remote,Beginner,None,No,1
+6.61,78,61,3,0,917,48,9,7,1,Male,ECE,Cloud,Research,Beginner,1-2,No,0
+9.05,81,73,4,3,223,88,5,7,10,Male,CSE,Software Dev,Research,Intermediate,5+,No,1
+6.27,87,96,3,6,783,15,8,5,8,Other,CIVIL,General,MNC,Intermediate,5+,No,1
+8.41,54,89,2,10,1169,50,0,0,9,Male,IT,Data Science,MNC,Beginner,3-5,No,1
+8.8,96,87,0,9,964,71,6,7,7,Female,EEE,General,None,Beginner,1-2,No,1
+7.98,71,59,2,2,949,81,9,7,7,Other,CIVIL,Cloud,MNC,Beginner,3-5,Yes,1
+7.36,96,84,0,2,1891,91,10,1,3,Other,CIVIL,Cyber Security,MNC,Intermediate,3-5,No,1
+7.06,83,100,0,4,1053,79,4,3,4,Male,MECH,General,None,Intermediate,3-5,No,1
+6.74,50,98,4,4,44,82,7,1,3,Male,EEE,AI/ML,None,Beginner,1-2,No,1
+9.65,75,81,5,9,1810,41,6,3,8,Female,CIVIL,Cyber Security,MNC,Intermediate,3-5,Yes,1
+9.15,92,56,2,2,470,16,3,9,1,Other,MECH,Cloud,Research,Advanced,5+,No,0
+9.83,59,70,3,8,33,62,3,6,10,Male,CIVIL,General,MNC,Intermediate,3-5,Yes,1
+5.62,79,69,2,3,652,44,5,8,7,Female,IT,Data Science,Remote,Intermediate,5+,No,0
+8.65,99,75,4,2,1450,76,5,7,1,Male,ECE,General,Remote,Intermediate,5+,No,1
+9.69,67,53,0,10,829,6,8,8,0,Other,MECH,General,Remote,Advanced,1-2,Yes,0
+5.91,66,95,4,1,1909,26,4,7,9,Male,ECE,Software Dev,Startup,Advanced,3-5,No,1
+5.33,75,71,1,9,220,9,7,1,2,Other,EEE,General,Remote,Advanced,1-2,Yes,1
+8.71,57,64,1,10,1891,33,4,6,8,Male,IT,Cloud,Research,Beginner,5+,Yes,1
+7.87,96,89,3,8,533,35,1,1,2,Other,MECH,Data Science,Startup,Beginner,None,No,1
+9.21,89,70,4,3,691,24,5,10,8,Female,EEE,Cloud,Startup,Advanced,3-5,No,1
+5.7,98,64,3,2,1971,5,8,1,6,Other,CIVIL,AI/ML,Remote,Beginner,1-2,Yes,1
+8.98,61,71,3,6,1390,23,2,3,9,Female,CSE,Cyber Security,MNC,Beginner,None,Yes,1
+6.01,76,77,1,7,931,17,0,0,0,Other,EEE,General,None,Beginner,3-5,No,0
+5.82,57,63,3,10,840,86,0,4,9,Female,ECE,Software Dev,MNC,Advanced,3-5,No,1
+5.82,74,76,1,1,1766,5,2,5,4,Male,IT,Data Science,MNC,Intermediate,1-2,No,0
+9.07,95,90,0,6,1010,28,9,8,8,Other,IT,Software Dev,Startup,Advanced,None,Yes,1
+8.33,53,89,4,4,1938,24,4,9,2,Male,EEE,Software Dev,Startup,Advanced,1-2,No,1
+7.62,82,77,3,10,1573,54,2,7,8,Female,CIVIL,Software Dev,Startup,Beginner,3-5,Yes,1
+6.79,50,75,1,4,581,80,8,1,4,Other,CSE,General,Research,Beginner,3-5,No,1
+9.39,68,98,2,2,1139,45,7,0,8,Other,ECE,Data Science,Research,Intermediate,5+,Yes,1
+6.96,80,51,3,4,238,23,2,1,9,Male,EEE,Data Science,None,Intermediate,3-5,Yes,1
+9.08,65,74,5,1,1358,74,8,6,5,Other,EEE,Software Dev,Startup,Intermediate,3-5,No,1
+7.2,63,52,0,3,440,25,5,3,8,Other,IT,Cyber Security,Remote,Intermediate,None,Yes,0
+6.88,97,57,0,5,147,97,6,9,6,Male,ECE,General,Startup,Advanced,None,Yes,1
+7.31,54,93,2,0,1032,27,3,4,6,Other,CSE,General,Research,Intermediate,5+,Yes,0
+6.51,90,82,1,9,1311,2,3,6,7,Male,IT,Cloud,Startup,Advanced,5+,Yes,1
+8.74,75,91,3,3,387,74,1,2,6,Male,EEE,General,Research,Beginner,5+,Yes,1
+7.51,77,84,1,5,1073,37,4,9,8,Male,IT,Software Dev,Startup,Intermediate,1-2,No,0
+6.16,51,55,0,8,1873,60,7,1,10,Male,IT,AI/ML,Remote,Beginner,1-2,No,1
+9.5,99,88,1,10,1540,77,6,6,8,Male,MECH,Software Dev,None,Beginner,5+,Yes,1
+6.92,55,72,0,10,915,50,6,4,5,Female,IT,Data Science,Remote,Advanced,1-2,No,1
+7.72,58,74,1,1,1878,89,5,0,6,Female,CIVIL,General,Research,Intermediate,3-5,Yes,1
+9.53,82,99,2,10,637,47,2,0,1,Male,IT,General,MNC,Advanced,5+,Yes,1
+8.12,90,92,4,6,1610,20,4,8,8,Female,CIVIL,Cloud,Remote,Beginner,5+,No,0
+5.58,74,68,2,5,1700,53,0,4,0,Female,ECE,AI/ML,Startup,Intermediate,1-2,Yes,1
+9.7,97,54,2,1,277,55,6,0,0,Other,IT,General,None,Beginner,None,Yes,1
+8.14,62,100,4,7,1977,93,8,6,2,Male,CSE,Cloud,Startup,Beginner,5+,Yes,1
+6.67,58,60,4,6,1859,58,0,8,5,Female,CIVIL,Cloud,Startup,Intermediate,1-2,No,1
+5.7,62,61,3,10,988,71,1,10,4,Other,CIVIL,AI/ML,Remote,Intermediate,1-2,No,0
+8.97,80,59,3,4,1323,50,2,0,1,Other,EEE,Software Dev,None,Intermediate,None,Yes,1
+8.1,90,57,2,4,1825,19,2,9,8,Male,ECE,Software Dev,MNC,Advanced,5+,Yes,1
+7.67,60,73,2,6,588,95,7,3,9,Male,IT,Software Dev,Startup,Advanced,None,Yes,1
+9.47,53,77,0,8,1833,85,6,2,3,Other,CSE,Cyber Security,None,Beginner,3-5,Yes,1
+8.94,83,90,0,10,648,58,5,4,3,Male,EEE,Software Dev,MNC,Intermediate,None,Yes,1
+5.76,87,85,3,8,617,70,9,6,4,Male,ECE,AI/ML,Startup,Beginner,None,No,1
+6.56,95,86,5,8,1630,8,9,7,7,Other,CIVIL,Cyber Security,None,Beginner,1-2,No,1
+6.24,53,70,5,5,134,0,10,1,9,Other,CSE,Software Dev,Remote,Beginner,None,No,1
+8.72,87,57,3,9,579,28,3,6,3,Male,IT,Cyber Security,Startup,Beginner,3-5,No,0
+5.17,68,58,0,5,1170,62,8,0,4,Female,MECH,AI/ML,Startup,Beginner,1-2,Yes,1
+7.85,55,96,0,2,489,71,0,6,3,Male,MECH,Software Dev,None,Intermediate,3-5,Yes,0
+8.81,83,64,5,0,477,55,10,7,5,Female,ECE,Data Science,Startup,Advanced,None,No,1
+9.38,67,97,1,6,1182,67,1,1,2,Other,CSE,General,MNC,Intermediate,3-5,No,1
+6.71,62,95,1,3,383,34,3,8,7,Female,EEE,AI/ML,Startup,Intermediate,3-5,Yes,0
+9.11,90,89,0,0,162,2,2,0,5,Other,CSE,Cloud,Research,Intermediate,None,No,0
+5.55,72,67,1,7,440,6,0,5,9,Male,CIVIL,Cloud,MNC,Advanced,None,Yes,0
+9.23,68,91,4,5,1876,26,4,0,4,Male,MECH,AI/ML,None,Advanced,1-2,Yes,1
+5.64,94,69,3,5,1212,0,6,2,1,Other,ECE,Cloud,MNC,Advanced,1-2,Yes,1
+6.99,60,55,3,1,414,90,1,10,9,Other,IT,AI/ML,Research,Intermediate,5+,No,0
+8.99,50,61,0,0,1362,79,4,5,9,Other,CSE,Data Science,Research,Advanced,1-2,No,1
+5.75,73,51,2,1,1630,70,5,2,6,Male,MECH,AI/ML,Startup,Beginner,None,No,1
+6.15,56,56,5,3,1204,43,10,7,1,Male,EEE,Software Dev,Startup,Advanced,3-5,No,1
+8.61,74,65,0,1,287,86,6,4,0,Female,ECE,Software Dev,Remote,Intermediate,3-5,No,1
+8.6,70,52,1,0,1857,40,0,1,6,Other,IT,Cyber Security,MNC,Intermediate,1-2,Yes,1
+8.21,64,94,5,6,186,74,6,3,4,Female,CSE,Cloud,Remote,Beginner,1-2,No,1
+8.47,50,52,2,10,1907,41,3,8,0,Male,EEE,General,Research,Advanced,None,Yes,1
+7.71,61,76,1,10,1161,32,7,3,3,Female,IT,Cloud,Startup,Advanced,3-5,Yes,1
+6.26,56,99,4,7,129,49,3,9,3,Female,CIVIL,AI/ML,Startup,Beginner,5+,Yes,0
+6.73,64,92,1,5,193,62,5,9,9,Male,MECH,General,Startup,Intermediate,5+,No,0
+5.91,70,89,4,3,315,99,8,7,6,Male,CIVIL,General,None,Intermediate,1-2,No,1
+9.54,68,87,5,5,1808,36,4,4,8,Other,MECH,Cloud,Research,Advanced,5+,No,1
+7.92,78,82,4,2,1887,58,3,10,1,Female,EEE,General,Startup,Advanced,None,No,1
+7.0,74,77,5,7,143,80,7,10,0,Male,CIVIL,General,Research,Advanced,5+,No,1
+7.31,82,50,5,9,15,98,8,9,1,Male,MECH,Software Dev,Startup,Advanced,1-2,No,1
+9.74,98,57,5,1,1325,47,3,0,6,Female,ECE,Data Science,MNC,Advanced,None,No,1
+5.77,81,86,5,4,422,4,2,6,9,Male,EEE,AI/ML,Research,Intermediate,3-5,No,0
+7.93,98,81,5,0,244,47,7,2,5,Other,MECH,Cloud,Remote,Intermediate,None,Yes,1
+7.53,84,97,1,5,926,95,4,9,3,Other,CSE,Software Dev,None,Intermediate,1-2,No,1
+8.06,93,92,5,1,1130,2,1,7,0,Female,MECH,Cyber Security,Remote,Intermediate,1-2,Yes,0
+5.09,87,86,1,3,1111,46,9,2,0,Other,CIVIL,General,Research,Beginner,5+,Yes,1
+9.36,75,53,5,5,128,61,8,0,4,Male,ECE,General,Startup,Intermediate,5+,Yes,1
+9.66,60,79,4,9,906,98,2,4,0,Male,IT,Cloud,Research,Beginner,3-5,Yes,1
+7.83,84,55,5,10,886,13,1,1,6,Male,IT,Data Science,None,Intermediate,3-5,No,1
+8.48,57,95,2,7,340,62,0,10,10,Male,MECH,Data Science,Research,Advanced,1-2,No,0
+9.61,95,68,5,7,3,60,7,3,0,Female,IT,Cloud,Startup,Advanced,1-2,Yes,1
+8.54,63,81,5,10,1350,30,10,0,0,Other,MECH,Cloud,Remote,Advanced,1-2,Yes,1
+5.76,59,58,4,5,1433,94,2,8,1,Other,ECE,Software Dev,MNC,Beginner,3-5,Yes,1
+7.88,51,61,3,3,1902,16,6,5,10,Male,IT,Cloud,Remote,Intermediate,1-2,No,1
+8.03,95,60,4,7,305,23,0,7,9,Female,CIVIL,Cyber Security,Startup,Intermediate,3-5,Yes,0
+7.12,58,95,2,7,907,22,0,10,2,Male,CIVIL,Software Dev,Startup,Beginner,1-2,Yes,0
+8.68,52,65,3,9,606,81,8,3,10,Male,CSE,General,None,Beginner,None,No,1
+9.67,70,50,0,0,1744,49,7,8,0,Female,MECH,General,Research,Beginner,None,Yes,0
+9.63,75,94,0,3,1248,77,2,1,8,Female,IT,General,Research,Beginner,1-2,No,1
+7.25,57,70,2,3,1994,78,5,8,9,Male,CIVIL,General,Remote,Beginner,None,No,1
+5.57,97,79,4,6,1371,78,10,4,7,Other,ECE,AI/ML,MNC,Advanced,3-5,Yes,1
+9.92,51,62,1,10,991,69,2,5,4,Male,ECE,Cyber Security,MNC,Intermediate,5+,Yes,1
+9.19,55,83,2,6,320,26,3,2,10,Other,CSE,Software Dev,None,Beginner,None,Yes,1
+5.62,77,53,3,10,558,14,0,3,1,Other,ECE,Software Dev,Startup,Advanced,5+,No,0
+9.6,78,77,3,7,1204,49,4,5,4,Female,ECE,General,None,Beginner,None,No,1
+9.35,75,87,5,10,617,35,0,6,5,Female,IT,Data Science,Research,Advanced,3-5,No,1
+7.59,74,80,0,4,710,7,0,0,0,Male,MECH,Software Dev,Startup,Beginner,None,Yes,0
+7.96,61,76,3,6,1409,78,9,6,10,Other,EEE,Cyber Security,None,Intermediate,None,Yes,1
+7.0,54,54,2,7,1641,2,10,0,3,Other,ECE,Cloud,Remote,Beginner,1-2,Yes,1
+5.27,83,74,3,8,1815,61,10,4,8,Male,ECE,Cyber Security,Research,Beginner,5+,Yes,1
+6.68,97,52,2,2,1795,46,6,5,1,Male,EEE,General,MNC,Intermediate,5+,Yes,1
+9.01,86,82,1,2,1131,76,5,1,4,Male,ECE,General,None,Intermediate,3-5,Yes,1
+5.02,64,53,5,3,530,97,1,9,0,Female,IT,AI/ML,Research,Beginner,3-5,No,0
+6.67,93,74,0,4,409,87,10,8,3,Male,IT,Software Dev,Research,Intermediate,5+,No,1
+6.99,85,69,3,9,1994,95,1,9,3,Male,EEE,Software Dev,MNC,Intermediate,1-2,No,1
+7.69,64,83,2,0,1319,60,10,5,5,Other,CIVIL,Software Dev,MNC,Advanced,1-2,Yes,1
+9.6,92,75,4,6,817,31,6,6,9,Male,ECE,General,MNC,Intermediate,5+,No,1
+6.73,97,54,0,8,1194,93,0,9,8,Other,CIVIL,Software Dev,None,Intermediate,None,No,1
+6.73,72,84,1,7,1354,12,1,7,2,Other,ECE,Data Science,MNC,Beginner,5+,No,0
+8.69,55,77,2,4,492,0,7,10,8,Female,MECH,Data Science,Remote,Beginner,None,Yes,0
+7.26,95,78,5,3,1218,33,5,9,5,Male,ECE,Cloud,Research,Advanced,5+,Yes,1
+6.12,99,58,5,6,11,61,1,0,6,Male,IT,Software Dev,MNC,Beginner,None,No,1
+7.26,93,87,1,4,194,78,6,7,9,Other,CSE,AI/ML,Research,Intermediate,1-2,Yes,1
+5.7,92,99,1,6,489,77,3,3,1,Female,CSE,Cloud,Startup,Intermediate,5+,Yes,1
+5.88,94,55,5,0,794,92,1,9,10,Female,CSE,General,Startup,Intermediate,3-5,Yes,1
+7.49,70,68,3,0,880,97,5,7,9,Male,CSE,Software Dev,MNC,Beginner,None,Yes,1
+7.09,72,93,3,9,181,81,10,5,5,Other,CIVIL,Data Science,Research,Intermediate,1-2,No,1
+9.57,92,60,2,2,961,70,8,10,5,Male,CIVIL,AI/ML,Startup,Intermediate,3-5,Yes,1
+6.81,65,51,4,10,1840,92,10,8,1,Male,ECE,Cloud,MNC,Advanced,1-2,No,1
+7.9,96,96,2,1,655,30,8,10,1,Male,CIVIL,AI/ML,Research,Advanced,None,No,0
+8.16,64,93,4,1,1921,63,7,3,1,Male,ECE,Software Dev,MNC,Advanced,5+,Yes,1
+5.07,74,93,1,6,1339,24,2,1,9,Other,MECH,Cyber Security,Research,Beginner,1-2,Yes,1
+8.32,85,58,0,9,693,37,2,1,0,Female,ECE,AI/ML,Startup,Intermediate,5+,Yes,1
+5.89,60,70,2,1,29,13,1,4,4,Male,CSE,AI/ML,MNC,Intermediate,5+,No,0
+9.81,100,73,2,10,1619,7,4,9,7,Male,EEE,General,Startup,Intermediate,1-2,No,0
+5.74,64,83,4,3,1701,90,3,8,1,Male,EEE,Data Science,MNC,Advanced,1-2,No,1
+7.07,53,71,1,1,1819,53,6,2,4,Male,IT,Software Dev,None,Intermediate,1-2,No,1
+5.43,70,52,1,5,1816,1,3,7,7,Female,IT,AI/ML,Startup,Intermediate,5+,No,0
+9.98,62,61,4,7,1119,80,8,3,9,Female,ECE,Software Dev,Startup,Intermediate,3-5,No,1
+7.51,71,77,1,9,1404,100,1,5,4,Female,EEE,Data Science,Remote,Intermediate,None,No,1
+7.98,68,79,5,3,777,77,10,9,1,Female,CSE,General,Startup,Intermediate,3-5,Yes,1
+5.34,83,75,3,4,443,88,5,5,2,Male,CIVIL,Software Dev,Research,Beginner,5+,No,1
+8.75,63,97,5,3,297,55,6,2,5,Other,CSE,Data Science,MNC,Intermediate,1-2,No,1
+6.05,53,70,0,2,807,93,3,4,10,Female,CSE,Data Science,None,Beginner,1-2,No,1
+9.49,97,77,2,4,1760,92,5,2,10,Female,ECE,Cloud,Research,Intermediate,None,No,1
+6.03,95,75,0,8,844,83,6,10,4,Male,ECE,General,Research,Beginner,None,Yes,0
+5.95,76,82,2,7,1015,84,3,10,10,Male,MECH,General,Research,Intermediate,3-5,No,1
+5.18,78,70,3,7,1384,60,7,0,3,Male,CSE,Software Dev,Research,Intermediate,3-5,No,1
+7.36,96,84,1,7,1397,21,8,6,3,Male,CSE,Cyber Security,None,Intermediate,None,Yes,1
+7.82,77,83,5,7,553,34,0,3,4,Other,ECE,Cloud,Remote,Intermediate,5+,Yes,1
+5.33,84,90,4,6,302,100,6,6,1,Other,ECE,General,Startup,Advanced,3-5,No,1
+8.88,57,100,5,7,420,15,8,2,8,Female,MECH,Data Science,Research,Intermediate,1-2,No,1
+7.27,65,96,3,10,1269,49,9,10,1,Other,MECH,General,Startup,Beginner,1-2,No,1
+7.62,91,67,0,7,1743,42,4,4,9,Female,IT,Cyber Security,Startup,Advanced,5+,No,1
+7.2,85,60,4,7,1260,16,1,4,1,Female,EEE,AI/ML,Research,Advanced,None,No,0
+7.0,79,72,1,9,1557,79,9,1,9,Other,CSE,AI/ML,Remote,Intermediate,3-5,No,1
+7.8,67,97,3,6,184,57,5,10,8,Female,CSE,General,Startup,Beginner,1-2,Yes,0
+5.78,51,71,4,0,467,1,6,9,2,Male,MECH,General,MNC,Beginner,None,Yes,0
+5.91,98,66,3,3,753,3,1,1,9,Female,MECH,Cloud,Startup,Advanced,3-5,No,1
+9.31,62,54,3,3,362,84,1,3,6,Male,IT,General,Research,Beginner,5+,No,1
+9.73,53,93,1,4,1306,38,9,3,3,Other,EEE,Cyber Security,None,Intermediate,1-2,No,1
+6.87,75,60,2,9,1576,97,9,3,5,Other,IT,General,Startup,Intermediate,5+,Yes,1
+6.35,74,79,4,5,335,93,0,5,3,Female,EEE,Software Dev,Remote,Intermediate,5+,No,1
+8.22,79,64,1,3,161,5,3,1,9,Male,CIVIL,Cyber Security,MNC,Intermediate,5+,Yes,1
+7.04,60,76,3,1,1183,80,6,5,6,Female,CSE,Cloud,MNC,Intermediate,3-5,Yes,1
+5.13,56,84,1,5,1497,88,8,6,0,Other,IT,Software Dev,None,Advanced,5+,No,1
+5.78,80,82,2,7,1624,68,2,10,2,Female,MECH,Software Dev,None,Intermediate,3-5,Yes,0
+8.58,93,69,5,7,1345,68,10,9,2,Female,IT,AI/ML,Startup,Intermediate,3-5,No,1
+8.29,59,65,4,6,11,19,6,2,0,Male,CIVIL,Cyber Security,Research,Advanced,5+,Yes,1
+5.14,88,83,2,5,1447,63,6,10,5,Other,IT,Software Dev,Remote,Advanced,5+,No,1
+6.11,62,51,0,1,1096,15,6,7,10,Female,CSE,Cloud,MNC,Advanced,None,No,0
+6.16,80,84,4,6,587,50,1,1,8,Male,CIVIL,AI/ML,None,Beginner,1-2,Yes,1
+8.36,56,89,2,10,1881,36,5,10,7,Female,MECH,Software Dev,Remote,Beginner,None,Yes,1
+5.1,98,77,3,4,200,72,1,7,10,Male,MECH,Cyber Security,Research,Intermediate,1-2,Yes,1
+5.52,91,96,4,5,521,68,5,10,6,Male,ECE,AI/ML,MNC,Intermediate,1-2,No,1
+9.0,91,88,4,9,1887,41,9,4,9,Female,CIVIL,Cyber Security,MNC,Intermediate,None,Yes,1
+5.89,85,55,1,7,504,56,2,1,7,Other,ECE,Cyber Security,Research,Beginner,None,Yes,1
+8.26,69,58,3,7,1761,65,1,6,5,Other,ECE,Cyber Security,MNC,Intermediate,1-2,No,1
+6.19,53,69,0,2,1711,8,5,1,8,Male,CSE,AI/ML,Research,Intermediate,1-2,No,0
+5.5,56,50,5,6,787,99,1,5,2,Other,IT,Software Dev,MNC,Beginner,1-2,Yes,1
+6.22,50,57,2,0,1062,85,4,9,9,Male,MECH,General,Startup,Advanced,3-5,Yes,1
+8.61,93,72,1,0,59,63,1,2,9,Other,MECH,Data Science,Research,Beginner,1-2,Yes,0
+9.28,94,52,2,6,577,85,2,8,8,Female,IT,Software Dev,Remote,Intermediate,5+,No,1
+9.15,91,53,0,9,320,21,2,2,3,Other,MECH,AI/ML,Startup,Beginner,5+,No,0
+6.99,96,74,0,8,1458,33,5,10,6,Male,IT,Data Science,Remote,Advanced,5+,Yes,0
+8.34,62,96,4,6,1659,54,5,2,8,Male,CIVIL,Data Science,MNC,Advanced,None,No,1
+6.02,71,87,0,9,1699,28,9,4,1,Other,CSE,Data Science,Remote,Advanced,None,Yes,1
+6.47,70,64,2,4,1431,37,2,6,1,Female,CSE,General,Startup,Advanced,None,Yes,0
+9.48,71,70,3,7,922,96,2,7,8,Male,CSE,Cloud,Research,Advanced,1-2,No,1
+5.07,77,84,3,1,1409,17,0,10,2,Male,IT,AI/ML,None,Advanced,5+,Yes,0
+5.43,58,95,4,8,1694,70,6,6,8,Male,IT,General,Remote,Intermediate,1-2,Yes,1
+6.04,75,63,5,5,568,64,7,8,4,Male,EEE,General,None,Intermediate,3-5,No,1
+5.13,58,85,2,8,1101,96,1,4,5,Male,MECH,Cloud,Remote,Beginner,3-5,Yes,1
+5.91,64,61,2,1,1217,0,3,9,1,Female,MECH,Data Science,Remote,Intermediate,None,Yes,0
+7.92,59,66,0,2,1308,87,9,10,7,Other,EEE,Cloud,Research,Advanced,3-5,No,1
+7.11,73,88,2,7,526,3,6,2,10,Female,EEE,Cloud,MNC,Intermediate,5+,Yes,1
+9.46,91,58,1,0,523,3,7,5,8,Female,CSE,General,Startup,Beginner,3-5,Yes,0
+9.09,57,84,5,9,612,81,0,4,1,Male,EEE,AI/ML,Startup,Advanced,None,No,1
+6.71,73,62,0,6,1179,26,3,3,5,Female,IT,Cyber Security,Startup,Intermediate,1-2,No,0
+6.3,65,64,1,6,1363,42,5,1,5,Male,ECE,Cloud,MNC,Intermediate,3-5,No,1
+6.9,98,67,4,0,124,58,2,6,7,Female,IT,Cloud,None,Beginner,5+,Yes,0
+7.95,75,100,3,8,870,31,4,4,9,Male,EEE,Data Science,Startup,Advanced,5+,No,1
+6.34,76,82,4,7,279,32,9,3,4,Male,MECH,Data Science,None,Beginner,5+,Yes,1
+8.12,86,55,3,3,916,27,8,7,8,Female,IT,General,MNC,Advanced,1-2,No,1
+7.05,53,76,4,9,1929,54,10,8,0,Female,MECH,Data Science,MNC,Advanced,5+,Yes,1
+7.76,99,72,2,10,621,99,2,8,8,Other,IT,Software Dev,Research,Intermediate,None,Yes,1
+7.18,73,76,1,4,845,59,4,2,9,Other,MECH,Cloud,Startup,Beginner,None,No,1
+6.47,68,83,3,1,1892,69,7,2,6,Other,CIVIL,Data Science,Research,Beginner,5+,Yes,1
+9.74,85,95,0,8,1681,61,5,4,3,Female,IT,AI/ML,Startup,Beginner,3-5,Yes,1
+8.82,88,87,1,5,1751,79,3,4,2,Female,MECH,Software Dev,MNC,Advanced,5+,No,1
+5.7,59,63,0,2,1933,33,7,9,9,Male,ECE,General,MNC,Beginner,None,Yes,0
+9.34,74,85,1,6,673,86,10,1,10,Other,CSE,Cyber Security,Remote,Advanced,None,Yes,1
+7.44,67,57,1,8,1151,87,2,0,5,Male,IT,Cloud,Remote,Beginner,None,Yes,1
+9.47,68,84,4,2,313,55,2,7,0,Male,ECE,Cloud,MNC,Beginner,3-5,No,0
+9.0,85,68,3,1,331,12,3,2,2,Male,CSE,AI/ML,MNC,Intermediate,3-5,No,0
+7.13,59,79,3,6,1173,55,8,0,1,Male,IT,Cyber Security,None,Beginner,3-5,No,1
+5.11,82,63,1,6,1477,17,4,0,10,Other,ECE,Cyber Security,None,Intermediate,None,No,1
+6.34,99,69,2,3,35,53,7,10,8,Male,ECE,General,Research,Intermediate,1-2,No,0
+7.71,54,98,2,10,1708,76,5,1,2,Female,CIVIL,General,Remote,Advanced,5+,No,1
+8.17,96,74,0,8,1443,100,2,5,1,Female,ECE,Software Dev,Remote,Beginner,5+,No,1
+6.29,98,89,0,7,1045,42,7,5,3,Female,CIVIL,Cloud,MNC,Beginner,None,No,1
+5.7,84,73,4,0,205,38,8,2,1,Other,EEE,Data Science,MNC,Beginner,3-5,Yes,1
+9.17,93,63,1,0,638,60,7,3,0,Male,MECH,General,Research,Intermediate,1-2,Yes,1
+9.92,83,75,0,4,847,41,3,1,5,Other,CSE,AI/ML,Remote,Beginner,1-2,Yes,1
+7.63,82,87,0,5,1980,80,10,1,9,Male,MECH,AI/ML,None,Advanced,3-5,Yes,1
+5.86,70,72,5,2,1379,78,5,6,7,Other,MECH,AI/ML,Startup,Advanced,5+,No,1
+6.36,66,71,1,8,439,17,0,0,9,Other,CIVIL,General,Research,Beginner,5+,Yes,0
+5.09,71,97,4,9,728,22,3,6,9,Male,MECH,General,Startup,Intermediate,1-2,Yes,1
+9.57,97,68,0,5,1119,53,7,0,1,Other,ECE,AI/ML,None,Advanced,1-2,Yes,1
+5.59,86,95,4,3,1952,29,0,5,8,Male,CIVIL,General,None,Advanced,3-5,Yes,1
+7.88,64,100,3,6,940,97,2,2,2,Female,MECH,Data Science,Startup,Intermediate,5+,Yes,1
+6.37,84,52,4,7,163,57,0,7,7,Female,CIVIL,Data Science,Research,Advanced,1-2,No,1
+7.77,77,91,2,8,147,67,8,5,7,Female,EEE,Software Dev,Startup,Intermediate,5+,No,1
+8.26,56,68,2,10,1553,66,1,10,2,Other,CIVIL,Cloud,Research,Advanced,1-2,Yes,1
+9.15,81,58,4,5,293,70,8,1,2,Female,IT,Data Science,Research,Intermediate,3-5,Yes,1
+6.03,60,77,2,5,194,17,3,7,5,Male,ECE,Software Dev,MNC,Advanced,5+,Yes,0
+5.05,59,69,3,7,662,6,1,4,0,Female,CSE,Cyber Security,Remote,Beginner,1-2,Yes,0
+5.68,58,94,1,4,479,39,3,7,3,Female,IT,Cloud,Remote,Advanced,1-2,No,0
+9.5,63,56,2,2,1900,69,10,7,0,Other,IT,Data Science,None,Advanced,1-2,Yes,1
+9.37,62,63,2,2,122,85,10,5,2,Male,IT,Cyber Security,MNC,Beginner,1-2,No,1
+7.99,74,58,4,5,1423,64,9,1,8,Other,MECH,Software Dev,Remote,Beginner,3-5,Yes,1
+8.0,51,68,3,1,698,67,5,7,4,Other,CIVIL,Data Science,Research,Beginner,5+,No,0
+8.33,84,96,1,5,964,48,10,10,4,Male,CIVIL,Data Science,Research,Beginner,5+,No,0
+5.88,56,63,4,5,1475,51,6,5,10,Other,MECH,General,Startup,Intermediate,None,No,1
+9.57,70,87,4,7,660,28,2,5,3,Male,ECE,Cyber Security,Startup,Intermediate,5+,Yes,1
+7.09,67,85,5,6,1127,20,2,7,2,Female,MECH,Data Science,Research,Advanced,None,Yes,0
+6.92,52,89,3,7,1778,89,9,0,4,Male,MECH,AI/ML,Research,Advanced,1-2,No,1
+7.59,91,66,1,8,1485,77,7,1,10,Male,MECH,General,Startup,Advanced,3-5,Yes,1
+5.23,88,79,3,5,1766,8,4,8,3,Male,ECE,General,Remote,Intermediate,3-5,Yes,0
+5.83,90,58,1,2,1741,46,3,10,7,Other,ECE,Data Science,None,Advanced,1-2,No,0
+8.69,98,82,3,9,709,75,6,7,3,Male,EEE,General,Startup,Advanced,None,Yes,1
+5.41,60,74,4,2,395,41,6,6,10,Male,EEE,Cloud,Remote,Intermediate,1-2,No,1
+8.02,88,63,4,10,911,50,8,6,7,Male,EEE,Cyber Security,Remote,Advanced,3-5,Yes,1
+6.23,73,60,0,0,1360,55,8,4,5,Female,EEE,Cloud,Remote,Intermediate,3-5,Yes,1
+6.95,95,84,2,10,1004,50,4,1,10,Male,CIVIL,Software Dev,MNC,Intermediate,5+,No,1
+6.44,68,90,5,4,1622,69,7,10,4,Other,IT,Cloud,MNC,Beginner,None,No,1
+6.78,53,63,3,3,1165,19,9,5,3,Male,IT,AI/ML,Remote,Beginner,5+,No,0
+8.6,75,79,5,8,316,87,0,9,3,Male,EEE,General,Research,Intermediate,3-5,No,1
+6.49,87,90,0,8,1734,26,8,2,3,Female,EEE,General,MNC,Intermediate,3-5,Yes,1
+7.83,91,53,2,4,1581,37,7,3,10,Male,CSE,AI/ML,Startup,Beginner,5+,Yes,1
+7.38,81,53,3,9,1823,71,5,9,8,Other,IT,General,MNC,Advanced,5+,Yes,1
+8.32,88,77,1,3,1550,64,2,10,3,Male,CSE,Cloud,Research,Advanced,3-5,No,0
+9.68,94,57,2,6,1579,53,2,1,8,Other,CSE,Software Dev,None,Advanced,5+,Yes,1
+8.66,95,51,4,5,1424,23,7,1,9,Female,MECH,Data Science,MNC,Intermediate,5+,Yes,1
+6.07,85,90,0,3,680,46,4,7,5,Male,CIVIL,AI/ML,Remote,Beginner,None,Yes,0
+5.16,89,95,2,9,1333,70,9,7,9,Female,ECE,Cloud,Remote,Advanced,3-5,No,1
+6.31,86,71,2,1,494,82,10,9,6,Male,IT,Cloud,Remote,Beginner,1-2,No,1
+7.98,82,90,4,0,555,85,6,5,9,Other,EEE,Cloud,None,Beginner,None,Yes,1
+5.26,85,65,3,3,609,62,4,4,2,Female,EEE,Data Science,Research,Intermediate,1-2,Yes,1
+7.48,52,78,1,3,1796,56,7,7,7,Male,ECE,Cyber Security,Startup,Advanced,5+,No,1
+7.98,58,98,4,0,108,54,9,3,2,Other,IT,General,Research,Beginner,5+,No,1
+6.67,57,97,1,5,1818,59,9,10,0,Female,EEE,General,None,Intermediate,1-2,No,0
+8.85,82,79,3,3,371,98,3,3,9,Male,EEE,Software Dev,Remote,Intermediate,5+,No,1
+5.53,55,61,2,0,854,61,1,4,4,Female,MECH,Cyber Security,Research,Intermediate,5+,Yes,0
+5.38,90,84,1,0,615,29,2,0,1,Male,CSE,General,Startup,Advanced,None,No,0
+8.64,88,60,0,0,767,92,7,0,9,Other,EEE,Software Dev,Remote,Advanced,1-2,Yes,1
+7.48,53,95,0,7,1914,21,10,1,5,Other,CIVIL,Software Dev,Startup,Intermediate,None,No,1
+8.44,62,99,4,9,205,74,6,7,9,Female,IT,Cloud,MNC,Advanced,1-2,Yes,1
+7.17,98,70,3,7,846,83,1,6,8,Female,CIVIL,AI/ML,Startup,Advanced,None,Yes,1
+6.23,51,70,4,1,42,28,5,9,0,Male,ECE,Cloud,Remote,Beginner,3-5,No,0
+9.1,54,54,4,10,864,40,8,8,3,Other,MECH,Data Science,MNC,Intermediate,3-5,Yes,1
+9.0,93,97,5,6,1268,41,3,4,0,Male,IT,General,Remote,Intermediate,1-2,Yes,1
+8.47,76,69,4,7,1310,97,8,1,0,Other,MECH,Software Dev,Remote,Advanced,3-5,Yes,1
+6.36,81,86,5,7,1378,64,1,6,7,Female,CSE,AI/ML,MNC,Intermediate,None,No,1
+7.95,70,52,0,10,784,30,1,7,10,Male,EEE,General,Startup,Intermediate,1-2,No,0
+6.8,57,93,0,9,475,29,8,6,1,Male,IT,Software Dev,None,Intermediate,3-5,No,0
+5.46,87,82,4,10,82,17,6,6,0,Other,ECE,Software Dev,None,Advanced,3-5,Yes,0
+9.59,57,58,0,6,1133,16,6,4,10,Other,CSE,Cloud,None,Advanced,1-2,Yes,1
+5.68,99,58,3,4,1973,37,0,1,7,Other,CSE,AI/ML,None,Advanced,3-5,Yes,1
+9.75,52,53,5,0,189,13,10,5,3,Female,MECH,AI/ML,Research,Beginner,3-5,Yes,0
+7.23,93,84,5,8,799,86,5,3,2,Male,CSE,General,None,Intermediate,1-2,No,1
