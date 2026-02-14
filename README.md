@@ -80,12 +80,15 @@ The system takes academic, skill-based, and profile-based inputs from the user a
 
 ## 📂 Project Structure
 
-📁 Campus-Placement-Prediction/
+```
+Campus-Placement-Prediction/
 │
 ├── CSE_Placement_Prediction.csv
 ├── CSE_Placement_Prediction_Project.ipynb
 ├── output.png
 └── README.md
+```
+
 
 
 
@@ -119,6 +122,7 @@ B.Tech CSE (Data Science)
 ---
 
 ## ⭐ If you like this project, give it a star!
+
 
 
 
